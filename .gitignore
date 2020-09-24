@@ -1,2 +1,5 @@
 # Ignore PcbLib History
 *.~*.PcbLib
+
+# Ignore SchLib History
+*.~*.SchLib
