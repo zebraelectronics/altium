@@ -3,3 +3,6 @@
 
 # Ignore SchLib History
 *.~*.SchLib.zip
+
+# Ignore SVNDbLib History
+*.~*.SVNDbLib.zip
