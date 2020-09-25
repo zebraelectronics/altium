@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security Info=True;User ID=zebra_librarian;Data Source=Zebra-Component-Library;Initial Catalog=Zebra_Test_Component_Lib
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;User ID=zebra_librarian;Data Source=Zebra-Test-Component-Library;Initial Catalog=Zebra_Test_Component_Lib
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -30,7 +30,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Name0=157|Library Path0=95|Library Ref0=170|Footprint Path0=98|Footprint Ref0=123|Description0=446|Manufacturer0=121|Manufacturer Part Number0=160|Category0=175|Case/Package0=93|Supplier 10=100|Supplier Part Number 10=166|Manufacturer 10=121|Manufacturer Part Number 10=169|RoHS0=51|Stock 10=60|Pricing 10=282|Mount0=106|Case Code (Metric)0=118|Case Code (Imperial)0=127|Dielectric Material0=115|Min Operating Temperature0=167|Max Operating Temperature0=168|Tolerance0=73|Packaging0=81|Capacitance0=85|Package Quantity0=112|Voltage Rating0=100|Voltage Rating (DC)0=124|Dielectric0=70|Termination0=85|Dissipation Factor0=116|Length0=59|Height0=58|Width0=57|Thickness0=73|Lead Pitch0=75|Depth0=55|Radiation Hardening0=131|ComponentLink1URL0=303|ComponentLink1Description0=303|ComponentLink2URL0=303|ComponentLink2Description0=303|ComponentLink3URL0=288|ComponentLink3Description0=288|ComponentLink4URL0=284|ComponentLink4Description0=284|ComponentLink5URL0=288|ComponentLink5Description0=288|Material0=65|Contact Plating0=102|Voltage0=63|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=289|ComponentLink7Description0=289|ComponentLink8URL0=297|ComponentLink8Description0=297|Lead Free0=72|Number of Pins0=102|REACH SVHC0=89|Temperature Coefficient0=147|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=311|ComponentLink11Description0=311|ComponentLink12URL0=284|ComponentLink12Description0=284|ComponentLink13URL0=288|ComponentLink13Description0=288|ComponentLink14URL0=288|ComponentLink14Description0=288|ComponentLink15URL0=311|ComponentLink15Description0=311|ComponentLink16URL0=297|ComponentLink16Description0=297|ComponentLink17URL0=278|ComponentLink17Description0=278|ComponentLink18URL0=278|ComponentLink18Description0=278|ESR (Equivalent Series Resistance)0=195|Leakage Current0=107|Polarity0=61|Features0=93|Height - Seated (Max)0=133|ComponentLink19URL0=289|ComponentLink19Description0=289|ComponentLink20URL0=278|ComponentLink20Description0=278|ComponentLink21URL0=278|ComponentLink21Description0=278|ComponentLink22URL0=311|ComponentLink22Description0=311|ComponentLink23URL0=278|ComponentLink23Description0=278|ComponentLink24URL0=278|ComponentLink24Description0=278|ComponentLink25URL0=288|ComponentLink25Description0=288|ComponentLink26URL0=311|ComponentLink26Description0=311|ComponentLink27URL0=278|ComponentLink27Description0=278|ComponentLink28URL0=278|ComponentLink28Description0=278|ComponentLink29URL0=278|ComponentLink29Description0=278|Weight0=61|Composition0=89|Life (Hours)0=81|Ripple Current0=98|Ripple Current (AC)0=121|Diameter0=69|Voltage Rating (AC)0=123|Lead/Base Style0=101|Lead Diameter0=96|Lead Length0=86|Housing Material0=112|Housing Color0=98|Contact Material0=108|Color0=51|Number of Contacts0=126|Number of Rows0=109|Gender0=61|Orientation0=83|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=48|Row Spacing0=90|Contact Mating Length0=142
+BrowserOrder_Visible=Part Name0=157|Library Path0=121|Library Ref0=170|Footprint Path0=111|Footprint Ref0=123|Manufacturer0=121|Manufacturer Part Number0=160|Description0=446|Category0=175|Case/Package0=93|Supplier 10=100|Supplier Part Number 10=166|Manufacturer 10=121|Manufacturer Part Number 10=169|RoHS0=51|Stock 10=60|Pricing 10=282|Mount0=106|Case Code (Metric)0=118|Case Code (Imperial)0=127|Dielectric Material0=115|Min Operating Temperature0=167|Max Operating Temperature0=168|Tolerance0=73|Packaging0=81|Capacitance0=85|Package Quantity0=112|Voltage Rating0=100|Voltage Rating (DC)0=124|Dielectric0=70|Termination0=85|Dissipation Factor0=116|Length0=59|Height0=58|Width0=57|Thickness0=73|Lead Pitch0=75|Depth0=55|Radiation Hardening0=131|ComponentLink1URL0=303|ComponentLink1Description0=303|ComponentLink2URL0=303|ComponentLink2Description0=303|ComponentLink3URL0=288|ComponentLink3Description0=288|ComponentLink4URL0=284|ComponentLink4Description0=284|ComponentLink5URL0=288|ComponentLink5Description0=288|Material0=65|Contact Plating0=102|Voltage0=63|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=289|ComponentLink7Description0=289|ComponentLink8URL0=297|ComponentLink8Description0=297|Lead Free0=72|Number of Pins0=102|REACH SVHC0=89|Temperature Coefficient0=147|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=311|ComponentLink11Description0=311|ComponentLink12URL0=284|ComponentLink12Description0=284|ComponentLink13URL0=288|ComponentLink13Description0=288|ComponentLink14URL0=288|ComponentLink14Description0=288|ComponentLink15URL0=311|ComponentLink15Description0=311|ComponentLink16URL0=297|ComponentLink16Description0=297|ComponentLink17URL0=278|ComponentLink17Description0=278|ComponentLink18URL0=278|ComponentLink18Description0=278|ESR (Equivalent Series Resistance)0=195|Leakage Current0=107|Polarity0=61|Features0=93|Height - Seated (Max)0=133|ComponentLink19URL0=289|ComponentLink19Description0=289|ComponentLink20URL0=278|ComponentLink20Description0=278|ComponentLink21URL0=278|ComponentLink21Description0=278|ComponentLink22URL0=311|ComponentLink22Description0=311|ComponentLink23URL0=278|ComponentLink23Description0=278|ComponentLink24URL0=278|ComponentLink24Description0=278|ComponentLink25URL0=288|ComponentLink25Description0=288|ComponentLink26URL0=311|ComponentLink26Description0=311|ComponentLink27URL0=278|ComponentLink27Description0=278|ComponentLink28URL0=278|ComponentLink28Description0=278|ComponentLink29URL0=278|ComponentLink29Description0=278|Weight0=61|Composition0=89|Life (Hours)0=81|Ripple Current0=98|Ripple Current (AC)0=121|Diameter0=69|Voltage Rating (AC)0=123|Lead/Base Style0=101|Lead Diameter0=96|Lead Length0=86|Housing Material0=112|Housing Color0=98|Contact Material0=108|Color0=51|Number of Contacts0=126|Number of Rows0=109|Gender0=61|Orientation0=83|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=48|Row Spacing0=90|Contact Mating Length0=142
 [Table2]
 SchemaName=
 TableName=Circuit_Protection
@@ -129,7 +129,7 @@ UserWhere=0
 UserWhereText=
 [Table18]
 SchemaName=
-TableName=Optoelectronic
+TableName=Optoelectronics
 Enabled=True
 UserWhere=0
 UserWhereText=
@@ -358,15 +358,15 @@ Options=FieldName=Opamp.Footprint Ref|TableNameOnly=Opamp|FieldNameOnly=Footprin
 [FieldMap85]
 Options=FieldName=Opamp.Description|TableNameOnly=Opamp|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap86]
-Options=FieldName=Optoelectronic.Library Path|TableNameOnly=Optoelectronic|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Optoelectronics.Library Path|TableNameOnly=Optoelectronics|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap87]
-Options=FieldName=Optoelectronic.Library Ref|TableNameOnly=Optoelectronic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Optoelectronics.Library Ref|TableNameOnly=Optoelectronics|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap88]
-Options=FieldName=Optoelectronic.Footprint Path|TableNameOnly=Optoelectronic|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Optoelectronics.Footprint Path|TableNameOnly=Optoelectronics|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap89]
-Options=FieldName=Optoelectronic.Footprint Ref|TableNameOnly=Optoelectronic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Optoelectronics.Footprint Ref|TableNameOnly=Optoelectronics|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap90]
-Options=FieldName=Optoelectronic.Description|TableNameOnly=Optoelectronic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Optoelectronics.Description|TableNameOnly=Optoelectronics|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap91]
 Options=FieldName=PMIC.Library Path|TableNameOnly=PMIC|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap92]
