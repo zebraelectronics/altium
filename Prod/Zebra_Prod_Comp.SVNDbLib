@@ -11,7 +11,7 @@ RightQuote=`
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(50)
-LibraryDatabaseType=
+LibraryDatabaseType=Microsoft Access
 LibraryDatabasePath=
 DatabasePathRelative=0
 TopPanelCollapsed=0
@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Capacitor
+LastFocusedTable=Data_Acquisition
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -28,9 +28,6 @@ TableName=Capacitor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Name0=157|Library Path0=95|Library Ref0=170|Footprint Path0=98|Footprint Ref0=123|Description0=446|Manufacturer0=121|Manufacturer Part Number0=160|Category0=175|Case/Package0=93|Supplier 10=100|Supplier Part Number 10=166|Manufacturer 10=121|Manufacturer Part Number 10=169|RoHS0=51|Stock 10=60|Pricing 10=282|Mount0=106|Case Code (Metric)0=118|Case Code (Imperial)0=127|Dielectric Material0=115|Min Operating Temperature0=167|Max Operating Temperature0=168|Tolerance0=73|Packaging0=81|Capacitance0=85|Package Quantity0=112|Voltage Rating0=100|Voltage Rating (DC)0=124|Dielectric0=70|Termination0=85|Dissipation Factor0=116|Length0=59|Height0=58|Width0=57|Thickness0=73|Lead Pitch0=75|Depth0=55|Radiation Hardening0=131|ComponentLink1URL0=303|ComponentLink1Description0=303|ComponentLink2URL0=303|ComponentLink2Description0=303|ComponentLink3URL0=288|ComponentLink3Description0=288|ComponentLink4URL0=284|ComponentLink4Description0=284|ComponentLink5URL0=288|ComponentLink5Description0=288|Material0=65|Contact Plating0=102|Voltage0=63|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=289|ComponentLink7Description0=289|ComponentLink8URL0=297|ComponentLink8Description0=297|Lead Free0=72|Number of Pins0=102|REACH SVHC0=89|Temperature Coefficient0=147|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=311|ComponentLink11Description0=311|ComponentLink12URL0=284|ComponentLink12Description0=284|ComponentLink13URL0=288|ComponentLink13Description0=288|ComponentLink14URL0=288|ComponentLink14Description0=288|ComponentLink15URL0=311|ComponentLink15Description0=311|ComponentLink16URL0=297|ComponentLink16Description0=297|ComponentLink17URL0=278|ComponentLink17Description0=278|ComponentLink18URL0=278|ComponentLink18Description0=278|ESR (Equivalent Series Resistance)0=195|Leakage Current0=107|Polarity0=61|Features0=93|Height - Seated (Max)0=133|ComponentLink19URL0=289|ComponentLink19Description0=289|ComponentLink20URL0=278|ComponentLink20Description0=278|ComponentLink21URL0=278|ComponentLink21Description0=278|ComponentLink22URL0=311|ComponentLink22Description0=311|ComponentLink23URL0=278|ComponentLink23Description0=278|ComponentLink24URL0=278|ComponentLink24Description0=278|ComponentLink25URL0=288|ComponentLink25Description0=288|ComponentLink26URL0=311|ComponentLink26Description0=311|ComponentLink27URL0=278|ComponentLink27Description0=278|ComponentLink28URL0=278|ComponentLink28Description0=278|ComponentLink29URL0=278|ComponentLink29Description0=278|Weight0=61|Composition0=89|Life (Hours)0=81|Ripple Current0=98|Ripple Current (AC)0=121|Diameter0=69|Voltage Rating (AC)0=123|Lead/Base Style0=101|Lead Diameter0=96|Lead Length0=86|Housing Material0=112|Housing Color0=98|Contact Material0=108|Color0=51|Number of Contacts0=126|Number of Rows0=109|Gender0=61|Orientation0=83|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=48|Row Spacing0=90|Contact Mating Length0=142
 [Table2]
 SchemaName=
 TableName=Circuit_Protection
@@ -55,12 +52,18 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=114|Library Ref0=85|Footprint Path0=98|Footprint Ref0=92|Description0=292|Part Name0=85|Manufacturer0=170|Manufacturer Part Number0=160|Category0=168|Case/Package0=120|Supplier 10=75|Supplier Part Number 10=151|RoHS0=165|Stock 10=60|Pricing 10=284|DCDC_Convertercol0=123|Weight0=61|Max Output Voltage0=128|Length0=59|Height0=58|Width0=55|ComponentLink1URL0=278|ComponentLink1Description0=278|ComponentLink2URL0=298|ComponentLink2Description0=298|ComponentLink3URL0=278|ComponentLink3Description0=278
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Description0=262|Part Name0=75|Manufacturer0=93|Manufacturer Part Number0=160|Category0=190|Case/Package0=93|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Stock 10=60|Pricing 10=283|Mount0=84|Number of Pins0=102|Contact Plating0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Supply Type0=85|Interface0=68|Operating Supply Current0=156|Packaging0=81|Radiation Hardening0=131|Lead Free0=81|ComponentLink1URL0=277|ComponentLink1Description0=277|Number of Inputs0=100|Sampling Rate0=100|ComponentLink2URL0=100|ComponentLink2Description0=100
 [Table7]
 SchemaName=
 TableName=Diode
@@ -91,6 +94,9 @@ TableName=Isolator
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=100|Library Ref0=97|Footprint Path0=98|Footprint Ref0=92|Description0=284|Part Name0=75|Manufacturer0=126|Manufacturer Part Number0=160|Category0=79|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Stock 10=60|Pricing 10=280|Mount0=106|Case/Package0=100|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=81|Collector Emitter Voltage (VCEO)0=189|Collector Emitter Saturation Voltage0=208|Max Collector Current0=135|Max Input Current0=117|Current Transfer Ratio0=137|Forward Current0=108|Forward Voltage0=109|Reverse Breakdown Voltage0=166|Max Power Dissipation0=140|Isolation Voltage0=111|Number of Elements0=127|Power Dissipation0=116|Voltage0=63|Package Quantity0=112|Number of Channels0=129|Max Output Voltage0=128|Output Current per Channel0=169|Radiation Hardening0=131|ComponentLink1URL0=285|ComponentLink1Description0=285|ComponentLink2URL0=289|ComponentLink2Description0=289|ComponentLink3URL0=294|ComponentLink3Description0=294|ComponentLink4URL0=284|ComponentLink4Description0=284|ComponentLink5URL0=275|ComponentLink5Description0=275|ComponentLink6URL0=282|ComponentLink6Description0=282|Voltage Rating (DC)0=124|Fall Time0=68|Collector Emitter Breakdown Voltage0=212|Input Current0=93|Rise Time0=71|Output Voltage0=104|Width0=55|Lead Pitch0=75|Row Spacing0=90|Lead Free0=72|REACH SVHC0=89|ComponentLink7URL0=281|ComponentLink7Description0=281|ComponentLink8URL0=275|ComponentLink8Description0=275|ComponentLink9URL0=270|ComponentLink9Description0=270|ComponentLink10URL0=267|ComponentLink10Description0=267|ComponentLink11URL0=267|ComponentLink11Description0=267|ComponentLink12URL0=275|ComponentLink12Description0=275|ComponentLink13URL0=267|ComponentLink13Description0=267|ComponentLink14URL0=267|ComponentLink14Description0=267|ComponentLink15URL0=270|ComponentLink15Description0=270|Approvals0=74|ComponentLink16URL0=267|ComponentLink16Description0=267|ComponentLink17URL0=281|ComponentLink17Description0=281|ComponentLink18URL0=275|ComponentLink18Description0=275|ComponentLink19URL0=273|ComponentLink19Description0=273|ComponentLink20URL0=270|ComponentLink20Description0=270|ComponentLink21URL0=270|ComponentLink21Description0=270|ComponentLink22URL0=267|ComponentLink22Description0=267|ComponentLink23URL0=267|ComponentLink23Description0=267|ComponentLink24URL0=270|ComponentLink24Description0=270|ComponentLink25URL0=267|ComponentLink25Description0=267|ComponentLink26URL0=267|ComponentLink26Description0=267
 [Table12]
 SchemaName=
 TableName=Logic
