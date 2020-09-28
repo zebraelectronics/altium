@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=DCDC_Converter
+LastFocusedTable=Inductor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -82,6 +82,9 @@ TableName=Inductor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=146|Library Ref0=90|Footprint Path0=181|Footprint Ref0=128|Description0=227|Part Name0=169|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=134|Manufacturer Part Number0=191|RoHS0=58|Category0=103|Stock 10=70|Pricing 10=362|Mount0=100|Case/Package0=109|Core Material0=108|Tolerance0=83|Packaging0=95|Composition0=103|Inductance0=92|Current Rating0=115|Shielding0=80|DC Resistance (DCR)0=150|Test Frequency0=117|Length0=70|Width0=70|Height - Seated (Max)0=159|ComponentLink1URL0=360|ComponentLink1Description0=360|Min Operating Temperature0=197|Max Operating Temperature0=199|Saturation Current0=139|ComponentLink2URL0=356|ComponentLink2Description0=356|Number of Pins0=120|Max DC Current0=125|Inductance Tolerance0=154|Self Resonant Frequency0=174|Package Quantity0=133|Termination0=98|Current0=72|RMS Current (Irms)0=143|DC Current0=95|Military Standard0=130|Height0=66|Depth0=63|REACH SVHC0=107|ComponentLink3URL0=339|ComponentLink3Description0=339|ComponentLink4URL0=339|ComponentLink4Description0=339|ComponentLink5URL0=344|ComponentLink5Description0=344|ComponentLink6URL0=349|ComponentLink6Description0=349|ComponentLink7URL0=339|ComponentLink7Description0=339|ComponentLink8URL0=339|ComponentLink8Description0=339
 [Table10]
 SchemaName=
 TableName=Interface
