@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Diode
+LastFocusedTable=DCDC_Converter
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -52,6 +52,9 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=171|Library Ref0=112|Footprint Path0=147|Footprint Ref0=105|Description0=374|Part Name0=112|Manufacturer0=204|Manufacturer Part Number0=191|Category0=198|Case/Package0=148|Supplier 10=86|Supplier Part Number 10=196|RoHS0=207|Stock 10=70|Pricing 10=366|DCDC_Convertercol0=147|Weight0=69|Max Output Voltage0=151|Length0=68|Height0=66|Width0=62|ComponentLink1URL0=332|ComponentLink1Description0=332|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=332|ComponentLink3Description0=332
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
