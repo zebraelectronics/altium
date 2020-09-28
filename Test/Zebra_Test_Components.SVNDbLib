@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Resistor
+LastFocusedTable=Connector
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
