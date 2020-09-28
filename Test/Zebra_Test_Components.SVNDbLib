@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Connector
+LastFocusedTable=PMIC
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -109,36 +109,54 @@ TableName=MCU
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=120|Library Ref0=143|Footprint Path0=116|Footprint Ref0=171|Description0=552|Part Name0=143|Manufacturer0=123|Manufacturer Part Number0=191|Category0=109|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=366|Min Operating Temperature0=197|Max Operating Temperature0=199|Core Architecture0=132|Frequency0=88|RAM Size0=82|ComponentLink1URL0=342|ComponentLink1Description0=342|Case/Package0=109|Number of Pins0=120|Memory Type0=110|Memory Size0=104|Number of Timers/Counters0=196|Watchdog Timer0=126|Number of I/Os0=121|Interface0=337|Max Power Dissipation0=164|Peripherals0=346|Oscillator Type0=115|Number of Programmable I/O0=209|Data Bus Width0=121|Max Frequency0=118|Packaging0=87|Package Quantity0=133|Number of USB Channels0=180|Number of ADC Channels0=183|Data Rate0=85|Max Supply Voltage0=147|Min Supply Voltage0=145|Length0=68|Height0=66|Width0=62|Lead Free0=84|REACH SVHC0=107|ComponentLink2URL0=353|ComponentLink2Description0=353|ComponentLink3URL0=353|ComponentLink3Description0=353|ComponentLink4URL0=349|ComponentLink4Description0=349|Mount0=100|Number of PWM Channels0=189|Number of SPI Channels0=174|Number of I2C Channels0=176|Number of Ethernet Channels0=207|Operating Supply Voltage0=183|Density0=71|Number of UART Channels0=189|Number of Bits0=117|Number of A/D Converters0=190|Access Time0=98|Radiation Hardening0=150|ComponentLink5URL0=344|ComponentLink5Description0=344|ComponentLink6URL0=340|ComponentLink6Description0=340|ComponentLink7URL0=345|ComponentLink7Description0=345|ComponentLink8URL0=344|ComponentLink8Description0=344|ComponentLink9URL0=341|ComponentLink9Description0=341
 [Table14]
 SchemaName=
 TableName=Memory
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=148|Library Ref0=107|Footprint Path0=116|Footprint Ref0=105|Description0=351|Part Name0=105|Manufacturer0=136|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Category0=81|Stock 10=70|Pricing 10=362
 [Table15]
 SchemaName=
 TableName=Misc
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=121|Library Ref0=151|Footprint Path0=122|Footprint Ref0=115|Part Name0=159
 [Table16]
 SchemaName=
 TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=146|Library Ref0=90|Footprint Path0=147|Footprint Ref0=105|Description0=367|Part Name0=90|Manufacturer0=138|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Category0=150|Stock 10=70|Pricing 10=366|Lead Free0=84|ComponentLink1URL0=332|ComponentLink1Description0=332|ComponentLink2URL0=332|ComponentLink2Description0=332|ComponentLink3URL0=359|ComponentLink3Description0=359|ComponentLink4URL0=363|ComponentLink4Description0=363|ComponentLink5URL0=332|ComponentLink5Description0=332
 [Table17]
 SchemaName=
 TableName=Opamp
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=101|Library Ref0=90|Footprint Path0=114|Footprint Ref0=105|Description0=404|Part Name0=90|Manufacturer0=123|Manufacturer Part Number0=191|Category0=291|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=367|Mount0=100|Case/Package0=109|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Gain Bandwidth Product0=174|Common Mode Rejection Ratio0=216|Min Supply Voltage0=145|Max Supply Voltage0=147|Voltage Gain0=104|Input Offset Voltage (Vos)0=185|Input Bias Current0=137|Operating Supply Current0=183|Number of Circuits0=140|Output Current per Channel0=199|Number of Elements0=150|Number of Channels0=151|Output Current0=121|Packaging0=95|Slew Rate0=83|Nominal Supply Current0=172|Package Quantity0=133|Unity Gain Bandwidth Product0=211|Radiation Hardening0=150|Lead Free0=84|ComponentLink1URL0=348|ComponentLink1Description0=348|ComponentLink2URL0=353|ComponentLink2Description0=353|ComponentLink3URL0=353|ComponentLink3Description0=353|ComponentLink4URL0=353|ComponentLink4Description0=353|ComponentLink5URL0=353|ComponentLink5Description0=353|ComponentLink6URL0=353|ComponentLink6Description0=353|Contact Plating0=119|Min Dual Supply Voltage0=177|Max Dual Supply Voltage0=179|Power Supply Rejection Ratio (PSRR)0=245|Operating Supply Voltage0=183|Nominal Gain Bandwidth Product0=229|Max I/O Voltage0=126|Bandwidth0=90|Number of Amplifiers0=155|REACH SVHC0=107|Dual Supply Voltage0=149|Length0=68|Height0=66|Width0=62
 [Table18]
 SchemaName=
 TableName=Optoelectronics
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=211|Library Ref0=126|Footprint Path0=205|Footprint Ref0=105|Description0=354|Part Name0=129|Manufacturer0=108|Manufacturer Part Number0=191|Category0=81|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 10=120|Manufacturer Part Number 10=203|RoHS0=58|Pricing 10=362|Mount0=100|Color0=102|Min Operating Temperature0=197|Max Operating Temperature0=199|Lens Style0=227|Max Power Dissipation0=164|Dominant Wavelength0=163|Number of LEDs0=125|Reverse Voltage0=123|Stock 10=70|Length0=68|Width0=62|ComponentLink1URL0=367|ComponentLink1Description0=367|ComponentLink2URL0=349|ComponentLink2Description0=349|Case/Package0=109|Number of Pins0=120|Lens Color0=90|Lens Transparency0=138|Test Current0=101|Number of Elements0=150|Power Dissipation0=134|Power Rating0=106|Luminous Intensity0=142|Packaging0=95|Viewing Angle0=112|Forward Current0=126|Forward Voltage0=126|Package Quantity0=133|Illumination Color0=134|Height0=66|Depth0=63|Lead Free0=84|Case Code (Imperial)0=151|Case Code (Metric)0=141|ComponentLink3URL0=350|ComponentLink3Description0=350|ComponentLink4URL0=349|ComponentLink4Description0=349|ComponentLink5URL0=328|ComponentLink5Description0=328|ComponentLink6URL0=324|ComponentLink6Description0=324|Wavelength0=98|Radiation Hardening0=150|ComponentLink7URL0=324|ComponentLink7Description0=324|ComponentLink8URL0=324|ComponentLink8Description0=324
 [Table19]
 SchemaName=
 TableName=PMIC
