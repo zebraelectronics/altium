@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Resistor
+LastFocusedTable=PMIC
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -91,24 +91,36 @@ TableName=Interface
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=156|Library Ref0=105|Footprint Path0=117|Footprint Ref0=105|Description0=355|Part Name0=153|Manufacturer0=137|Manufacturer Part Number0=191|Category0=251|Supplier 10=86|Supplier Part Number 10=205|Manufacturer 10=121|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=70|Pricing 10=367|ComponentLink1URL0=348|ComponentLink1Description0=348|ComponentLink2URL0=375|ComponentLink2Description0=375|ComponentLink3URL0=350|ComponentLink3Description0=350|Mount0=100|Case/Package0=109|Number of Pins0=120|Operating Supply Voltage0=183|Number of Transmitters0=171|Packaging0=95|Number of Channels0=151|Radiation Hardening0=150|Lead Free0=84|ComponentLink4URL0=351|ComponentLink4Description0=351|ComponentLink5URL0=335|ComponentLink5Description0=335|ComponentLink6URL0=335|ComponentLink6Description0=335|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Stock 20=70|Pricing 20=78|Contact Plating0=119|Min Operating Temperature0=197|Max Operating Temperature0=199|Simplex/Duplex0=118|Number of Drivers0=138|Number of Receivers0=151|Data Rate0=85|Max Supply Voltage0=147|Min Supply Voltage0=145|Logic Function0=114|Nominal Supply Current0=172|Number of Transceivers0=169|Package Quantity0=133|Max Supply Current0=147|Isolated Power0=115|ESD Protection0=116|Channel Type0=108|Number of Input Lines0=163|Number of Output Lines0=175|Working Voltage0=128|ComponentLink7URL0=156|ComponentLink7Description0=200|ComponentLink8URL0=156|ComponentLink8Description0=200|Propagation Delay0=138|Receiver Hysteresis0=141|ComponentLink9URL0=156|ComponentLink9Description0=200|ComponentLink10URL0=164|ComponentLink10Description0=208|Weight0=83|Output Voltage0=121|Output Current0=121|REACH SVHC0=107|ComponentLink11URL0=164|ComponentLink11Description0=208|ComponentLink12URL0=164|ComponentLink12Description0=208|ComponentLink13URL0=164|ComponentLink13Description0=208|ComponentLink14URL0=164|ComponentLink14Description0=208|ComponentLink15URL0=164|ComponentLink15Description0=208|ComponentLink16URL0=164|ComponentLink16Description0=208|Number of Transmit Buffers0=194|Number of Receive Buffers0=186|Polarity0=71|Operating Supply Current0=183|Max Power Dissipation0=164|Termination0=98|ComponentLink17URL0=164|ComponentLink17Description0=208|ComponentLink18URL0=164|ComponentLink18Description0=208|ComponentLink19URL0=164|ComponentLink19Description0=208|ComponentLink20URL0=164|ComponentLink20Description0=208|ComponentLink21URL0=164|ComponentLink21Description0=208|ComponentLink22URL0=164|ComponentLink22Description0=208|ComponentLink23URL0=164|ComponentLink23Description0=208|ComponentLink24URL0=164|ComponentLink24Description0=208
 [Table11]
 SchemaName=
 TableName=Isolator
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=152|Library Ref0=122|Footprint Path0=114|Footprint Ref0=105|Description0=351|Part Name0=90|Manufacturer0=151|Manufacturer Part Number0=191|Category0=93|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=362|Mount0=128|Case/Package0=121|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Packaging0=95|Collector Emitter Voltage (VCEO)0=226|Collector Emitter Saturation Voltage0=245|Max Collector Current0=160|Max Input Current0=139|Current Transfer Ratio0=160|Forward Current0=126|Forward Voltage0=126|Reverse Breakdown Voltage0=195|Max Power Dissipation0=164|Isolation Voltage0=128|Number of Elements0=150|Power Dissipation0=134|Voltage0=72|Package Quantity0=133|Number of Channels0=151|Max Output Voltage0=151|Output Current per Channel0=199|Radiation Hardening0=150|ComponentLink1URL0=338|ComponentLink1Description0=338|ComponentLink2URL0=350|ComponentLink2Description0=350|ComponentLink3URL0=356|ComponentLink3Description0=356|ComponentLink4URL0=338|ComponentLink4Description0=338|ComponentLink5URL0=323|ComponentLink5Description0=323|ComponentLink6URL0=327|ComponentLink6Description0=327|Voltage Rating (DC)0=146|Fall Time0=78|Collector Emitter Breakdown Voltage0=250|Input Current0=109|Rise Time0=82|Output Voltage0=121|Width0=62|Lead Pitch0=88|Row Spacing0=102|Lead Free0=84|REACH SVHC0=107|ComponentLink7URL0=350|ComponentLink7Description0=350|ComponentLink8URL0=340|ComponentLink8Description0=340|ComponentLink9URL0=336|ComponentLink9Description0=336|ComponentLink10URL0=331|ComponentLink10Description0=331|ComponentLink11URL0=331|ComponentLink11Description0=331|ComponentLink12URL0=340|ComponentLink12Description0=340|ComponentLink13URL0=331|ComponentLink13Description0=331|ComponentLink14URL0=331|ComponentLink14Description0=331|ComponentLink15URL0=336|ComponentLink15Description0=336|Approvals0=86|ComponentLink16URL0=331|ComponentLink16Description0=331|ComponentLink17URL0=350|ComponentLink17Description0=350|ComponentLink18URL0=340|ComponentLink18Description0=340|ComponentLink19URL0=328|ComponentLink19Description0=328|ComponentLink20URL0=336|ComponentLink20Description0=336|ComponentLink21URL0=336|ComponentLink21Description0=336|ComponentLink22URL0=331|ComponentLink22Description0=331|ComponentLink23URL0=331|ComponentLink23Description0=331|ComponentLink24URL0=336|ComponentLink24Description0=336|ComponentLink25URL0=331|ComponentLink25Description0=331|ComponentLink26URL0=331|ComponentLink26Description0=331
 [Table12]
 SchemaName=
 TableName=Logic
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=101|Library Ref0=131|Footprint Path0=116|Footprint Ref0=105|Description0=564|Part Name0=145|Manufacturer0=121|Manufacturer Part Number0=191|Category0=207|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 10=121|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=70|Pricing 10=367|Mount0=100|Case/Package0=109|Number of Pins0=120|Contact Plating0=119|Min Operating Temperature0=197|Max Operating Temperature0=199|Number of Gates0=130|Number of Bits0=117|Number of Bits per Element0=194|Packaging0=95|Low Level Output Current0=185|Number of Input Lines0=163|Package Quantity0=133|Number of Output Lines0=175|Number of Elements0=150|Polarity0=97|Turn-On Delay Time0=149|Quiescent Current0=137|Max Supply Voltage0=147|Min Supply Voltage0=145|Propagation Delay0=138|Logic Function0=143|Number of Channels0=151|Number of Inputs0=134|Number of Outputs0=146|Radiation Hardening0=150|REACH SVHC0=107|Lead Free0=84|ComponentLink1URL0=349|ComponentLink1Description0=349|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=339|ComponentLink3Description0=339|ComponentLink4URL0=339|ComponentLink4Description0=339|High Level Output Current0=189|Frequency0=88|Clock Edge Trigger Type0=172|Number of Circuits0=140|Output Current0=121|ComponentLink5URL0=344|ComponentLink5Description0=344|ComponentLink6URL0=339|ComponentLink6Description0=339|ComponentLink7URL0=349|ComponentLink7Description0=349|ComponentLink8URL0=349|ComponentLink8Description0=349|ComponentLink9URL0=349|ComponentLink9Description0=349|Length0=68|Height0=66|Width0=62|ComponentLink10URL0=344|ComponentLink10Description0=344|ComponentLink11URL0=349|ComponentLink11Description0=349|ComponentLink12URL0=339|ComponentLink12Description0=339|ComponentLink13URL0=339|ComponentLink13Description0=339|ComponentLink14URL0=339|ComponentLink14Description0=339|ComponentLink15URL0=339|ComponentLink15Description0=339|ComponentLink16URL0=344|ComponentLink16Description0=344|ComponentLink17URL0=349|ComponentLink17Description0=349|ComponentLink18URL0=339|ComponentLink18Description0=339|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Stock 20=70|Pricing 20=78|Termination0=98|Nominal Supply Current0=172|Weight0=83|Output Type0=103|ComponentLink19URL0=344|ComponentLink19Description0=344|ComponentLink20URL0=341|ComponentLink20Description0=341|ComponentLink21URL0=341|ComponentLink21Description0=341|ComponentLink22URL0=341|ComponentLink22Description0=341|ComponentLink23URL0=328|ComponentLink23Description0=328|ComponentLink24URL0=336|ComponentLink24Description0=336|ComponentLink25URL0=339|ComponentLink25Description0=339|ComponentLink26URL0=339|ComponentLink26Description0=339|ComponentLink27URL0=339|ComponentLink27Description0=339|ComponentLink28URL0=339|ComponentLink28Description0=339|ComponentLink29URL0=344|ComponentLink29Description0=344|Data Rate0=85|Direction0=84
 [Table13]
 SchemaName=
 TableName=MCU
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=120|Library Ref0=143|Footprint Path0=116|Footprint Ref0=171|Description0=552|Part Name0=143|Manufacturer0=123|Manufacturer Part Number0=191|Category0=109|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=366|Min Operating Temperature0=197|Max Operating Temperature0=199|Core Architecture0=132|Frequency0=88|RAM Size0=82|ComponentLink1URL0=342|ComponentLink1Description0=342|Case/Package0=109|Number of Pins0=120|Memory Type0=110|Memory Size0=104|Number of Timers/Counters0=196|Watchdog Timer0=126|Number of I/Os0=121|Interface0=337|Max Power Dissipation0=164|Peripherals0=346|Oscillator Type0=115|Number of Programmable I/O0=209|Data Bus Width0=121|Max Frequency0=118|Packaging0=87|Package Quantity0=133|Number of USB Channels0=180|Number of ADC Channels0=183|Data Rate0=85|Max Supply Voltage0=147|Min Supply Voltage0=145|Length0=68|Height0=66|Width0=62|Lead Free0=84|REACH SVHC0=107|ComponentLink2URL0=353|ComponentLink2Description0=353|ComponentLink3URL0=353|ComponentLink3Description0=353|ComponentLink4URL0=349|ComponentLink4Description0=349|Mount0=100|Number of PWM Channels0=189|Number of SPI Channels0=174|Number of I2C Channels0=176|Number of Ethernet Channels0=207|Operating Supply Voltage0=183|Density0=71|Number of UART Channels0=189|Number of Bits0=117|Number of A/D Converters0=190|Access Time0=98|Radiation Hardening0=150|ComponentLink5URL0=344|ComponentLink5Description0=344|ComponentLink6URL0=340|ComponentLink6Description0=340|ComponentLink7URL0=345|ComponentLink7Description0=345|ComponentLink8URL0=344|ComponentLink8Description0=344|ComponentLink9URL0=341|ComponentLink9Description0=341
 [Table14]
 SchemaName=
 TableName=Memory
@@ -121,18 +133,27 @@ TableName=Misc
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=121|Library Ref0=151|Footprint Path0=122|Footprint Ref0=115|Part Name0=159
 [Table16]
 SchemaName=
 TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=146|Library Ref0=90|Footprint Path0=147|Footprint Ref0=105|Description0=367|Part Name0=90|Manufacturer0=138|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Category0=150|Stock 10=70|Pricing 10=366|Lead Free0=84|ComponentLink1URL0=332|ComponentLink1Description0=332|ComponentLink2URL0=332|ComponentLink2Description0=332|ComponentLink3URL0=359|ComponentLink3Description0=359|ComponentLink4URL0=363|ComponentLink4Description0=363|ComponentLink5URL0=332|ComponentLink5Description0=332
 [Table17]
 SchemaName=
 TableName=Opamp
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=101|Library Ref0=90|Footprint Path0=114|Footprint Ref0=105|Description0=404|Part Name0=90|Manufacturer0=123|Manufacturer Part Number0=191|Category0=291|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=367|Mount0=100|Case/Package0=109|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Gain Bandwidth Product0=174|Common Mode Rejection Ratio0=216|Min Supply Voltage0=145|Max Supply Voltage0=147|Voltage Gain0=104|Input Offset Voltage (Vos)0=185|Input Bias Current0=137|Operating Supply Current0=183|Number of Circuits0=140|Output Current per Channel0=199|Number of Elements0=150|Number of Channels0=151|Output Current0=121|Packaging0=95|Slew Rate0=83|Nominal Supply Current0=172|Package Quantity0=133|Unity Gain Bandwidth Product0=211|Radiation Hardening0=150|Lead Free0=84|ComponentLink1URL0=348|ComponentLink1Description0=348|ComponentLink2URL0=353|ComponentLink2Description0=353|ComponentLink3URL0=353|ComponentLink3Description0=353|ComponentLink4URL0=353|ComponentLink4Description0=353|ComponentLink5URL0=353|ComponentLink5Description0=353|ComponentLink6URL0=353|ComponentLink6Description0=353|Contact Plating0=119|Min Dual Supply Voltage0=177|Max Dual Supply Voltage0=179|Power Supply Rejection Ratio (PSRR)0=245|Operating Supply Voltage0=183|Nominal Gain Bandwidth Product0=229|Max I/O Voltage0=126|Bandwidth0=90|Number of Amplifiers0=155|REACH SVHC0=107|Dual Supply Voltage0=149|Length0=68|Height0=66|Width0=62
 [Table18]
 SchemaName=
 TableName=Optoelectronics
@@ -145,6 +166,9 @@ TableName=PMIC
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=140|Library Ref0=121|Footprint Path0=147|Footprint Ref0=159|Description0=325|Part Name0=121|Manufacturer0=227|Manufacturer Part Number0=191|Category0=230|Case/Package0=109|Supplier 10=86|Supplier Part Number 10=197|Manufacturer 10=126|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=70|Pricing 10=367|ComponentLink1URL0=349|ComponentLink1Description0=349|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|On-State Resistance0=148|Max Power Dissipation0=164|Packaging0=95|Min Supply Voltage0=145|Max Supply Voltage0=147|Package Quantity0=133|Number of Outputs0=146|Max Input Voltage0=139|Min Input Voltage0=137|Turn-Off Delay Time0=149|Turn-On Delay Time0=149|Voltage0=72|Current0=72|Power Rating0=106|Nominal Supply Current0=172|Length0=68|Height0=66|Width0=62|Radiation Hardening0=150|Lead Free0=97|REACH SVHC0=107|ComponentLink2URL0=350|ComponentLink2Description0=350|ComponentLink3URL0=344|ComponentLink3Description0=344|ComponentLink4URL0=344|ComponentLink4Description0=344|ComponentLink5URL0=344|ComponentLink5Description0=344|ComponentLink6URL0=339|ComponentLink6Description0=339|ComponentLink7URL0=339|ComponentLink7Description0=339|Mount0=100|Number of Voltages Monitored0=217|Overvoltage Threshold0=164|Operating Supply Current0=183|Undervoltage Threshold0=172|Watchdog Timer0=126|Min Reset Threshold Voltage0=201|Max Reset Threshold Voltage0=203|Threshold Voltage0=136|Max Supply Current0=147|Operating Supply Voltage0=183|Halogen Free0=106|ComponentLink8URL0=353|ComponentLink8Description0=353|ComponentLink9URL0=353|ComponentLink9Description0=353|ComponentLink10URL0=353|ComponentLink10Description0=353|ComponentLink11URL0=353|ComponentLink11Description0=353|ComponentLink12URL0=353|ComponentLink12Description0=353|ComponentLink13URL0=327|ComponentLink13Description0=327|ComponentLink14URL0=349|ComponentLink14Description0=349|Reset0=76|Reset Timeout0=112|Number of Elements0=150|Power Dissipation0=134|Type0=192|Number of Monitored Inputs0=203|Reset Delay Time0=129|ComponentLink15URL0=332|ComponentLink15Description0=332|ComponentLink16URL0=332|ComponentLink16Description0=332|Reference Type0=117|Output Type0=103|Min Output Voltage0=149|Max Output Voltage0=151|Temperature Coefficient0=171|Cathode Current0=128|Output Current0=121|Accuracy0=79|Reference Voltage0=135|Output Voltage0=121|Max Output Current0=151|Tolerance0=83|Number of Channels0=151|Supplier 20=86|Supplier Part Number 20=188|Stock 20=70|Pricing 20=367|Switching Frequency0=150|Synchronous Rectifier0=156|Output Configuration0=158|Weight0=83|Voltage - Output 10=143|Isolation Voltage0=128|Efficiency0=80|Min Input Voltage (DC)0=168|Max Input Voltage (DC)0=170|Max Output Power0=142|Current - Output 10=143|Depth0=69|ComponentLink17URL0=332|ComponentLink17Description0=332|ComponentLink18URL0=349|ComponentLink18Description0=349|Contact Plating0=119|Propagation Delay0=138|Logic Function0=142|Number of Bits0=117|Data Rate0=85|High Level Output Current0=189|Low Level Output Current0=185|Quiescent Current0=137|Polarity0=97|Direction0=84|ComponentLink19URL0=328|ComponentLink19Description0=328|ComponentLink20URL0=349|ComponentLink20Description0=349|ComponentLink21URL0=336|ComponentLink21Description0=336|ComponentLink22URL0=336|ComponentLink22Description0=336|ComponentLink23URL0=336|ComponentLink23Description0=336|ComponentLink24URL0=344|ComponentLink24Description0=344|ComponentLink25URL0=344|ComponentLink25Description0=344|ComponentLink26URL0=336|ComponentLink26Description0=336|ComponentLink27URL0=344|ComponentLink27Description0=344
 [Table20]
 SchemaName=
 TableName=Power_Supply
@@ -157,6 +181,9 @@ TableName=RTC
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=116|Library Ref0=90|Footprint Path0=117|Footprint Ref0=118|Description0=325|Part Name0=90|Manufacturer0=179|Manufacturer Part Number0=191|Category0=111|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 10=179|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=70|Pricing 10=365|Mount0=128|Case/Package0=109|Number of Pins0=120|Contact Plating0=119|Min Operating Temperature0=197|Max Operating Temperature0=199|Logic Function0=114|Packaging0=87|Time Format0=102|Min Supply Voltage0=145|Max Supply Voltage0=147|Interface0=78|Package Quantity0=133|Radiation Hardening0=150|REACH SVHC0=107|Lead Free0=84|ComponentLink1URL0=343|ComponentLink1Description0=343|ComponentLink2URL0=343|ComponentLink2Description0=343|ComponentLink3URL0=156|ComponentLink3Description0=200|ComponentLink4URL0=156|ComponentLink4Description0=200|ComponentLink5URL0=156|ComponentLink5Description0=200|Number of Cells0=123|Termination0=98|ComponentLink6URL0=156|ComponentLink6Description0=200|ComponentLink7URL0=156|ComponentLink7Description0=200|ComponentLink8URL0=156|ComponentLink8Description0=200
 [Table22]
 SchemaName=
 TableName=Relay
@@ -178,6 +205,9 @@ TableName=Sensor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=101|Library Ref0=99|Footprint Path0=114|Footprint Ref0=105|Description0=430|Part Name0=90|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=137|Manufacturer Part Number0=191|RoHS0=58|Category0=226|Stock 10=70|Pricing 10=364|Case/Package0=109|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Interface0=156|Resolution0=89|Output Type0=103|Max Supply Voltage (DC)0=178|Min Supply Voltage (DC)0=176|Package Quantity0=133|Number of Bits0=117|Min Supply Voltage0=145|Max Supply Voltage0=147|Nominal Supply Current0=172|Operating Supply Current0=183|Max Output Current0=151|Packaging0=95|Radiation Hardening0=150|REACH SVHC0=107|Lead Free0=84|ComponentLink1URL0=346|ComponentLink1Description0=346|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=343|ComponentLink3Description0=343|ComponentLink4URL0=346|ComponentLink4Description0=346|ComponentLink5URL0=339|ComponentLink5Description0=339|ComponentLink6URL0=349|ComponentLink6Description0=349|ComponentLink7URL0=339|ComponentLink7Description0=339|ComponentLink8URL0=339|ComponentLink8Description0=339|ComponentLink9URL0=339|ComponentLink9Description0=339|Contact Plating0=119|Output Current0=121
 [Table25]
 SchemaName=
 TableName=Switch
