@@ -5,13 +5,13 @@ ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security I
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=`
 RightQuote=`
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(50)
-LibraryDatabaseType=Microsoft Access
+LibraryDatabaseType=
 LibraryDatabasePath=
 DatabasePathRelative=0
 TopPanelCollapsed=0
@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Connector
+LastFocusedTable=Capacitor
 SVNRepositoryURL=
 FileRepositoryIsRelative=0
 [Table1]
