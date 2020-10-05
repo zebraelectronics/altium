@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Relay
+LastFocusedTable=Opamp
 SVNRepositoryURL=https://github.com/zebraelectronics/altium/trunk
 FileRepositoryIsRelative=0
 [Table1]
@@ -124,6 +124,9 @@ TableName=Opamp
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Description0=282|Part Name0=75|Manufacturer0=104|Manufacturer Part Number0=160|Category0=242|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Stock 10=60|Pricing 10=283|Mount0=84|Case/Package0=93|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Gain Bandwidth Product0=149|Common Mode Rejection Ratio0=183|Min Supply Voltage0=124|Max Supply Voltage0=125|Voltage Gain0=90|Input Offset Voltage (Vos)0=157|Input Bias Current0=116|Operating Supply Current0=156|Number of Circuits0=119|Output Current per Channel0=169|Number of Elements0=127|Number of Channels0=129|Output Current0=103|Packaging0=81|Slew Rate0=73|Nominal Supply Current0=146|Package Quantity0=112|Unity Gain Bandwidth Product0=179|Radiation Hardening0=131|Lead Free0=72|ComponentLink1URL0=280|ComponentLink1Description0=280|ComponentLink2URL0=282|ComponentLink2Description0=282|ComponentLink3URL0=282|ComponentLink3Description0=282|ComponentLink4URL0=282|ComponentLink4Description0=282|ComponentLink5URL0=282|ComponentLink5Description0=282|ComponentLink6URL0=282|ComponentLink6Description0=282|Contact Plating0=102|Min Dual Supply Voltage0=151|Max Dual Supply Voltage0=152|Power Supply Rejection Ratio (PSRR)0=209|Operating Supply Voltage0=157|Nominal Gain Bandwidth Product0=195|Max I/O Voltage0=106|Bandwidth0=79|Number of Amplifiers0=132|REACH SVHC0=89|Dual Supply Voltage0=128|Length0=59|Height0=58|Width0=55|Isolation Voltage0=111|ComponentLink7URL0=278|ComponentLink7Description0=278
 [Table18]
 SchemaName=
 TableName=Optoelectronic
@@ -154,9 +157,6 @@ TableName=Relay
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=162|Library Ref0=77|Footprint Path0=140|Footprint Ref0=92|Description0=297|Part Name0=75|Manufacturer0=93|Manufacturer Part Number0=160|Category0=75|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Stock 10=60|Pricing 10=283|Mount0=80|Contact Material0=108|Min Operating Temperature0=167|Max Operating Temperature0=168|Package Quantity0=112|Packaging0=76|Coil Current0=85|Throw Configuration0=132|Operate Time0=92|Release Time0=89|Termination0=85|Coil Power0=78|Coil Resistance0=100|Relay Type0=93|Coil Type0=78|Coil Voltage (DC)0=110|Contact Current Rating0=142|ComponentLink1URL0=300|ComponentLink1Description0=300|ComponentLink2URL0=278|ComponentLink2Description0=278|ComponentLink3URL0=278|ComponentLink3Description0=278|ComponentLink4URL0=285|ComponentLink4Description0=285|ComponentLink5URL0=286|ComponentLink5Description0=286|ComponentLink6URL0=278|ComponentLink6Description0=278|Case/Package0=100|Number of Pins0=100|Max Output Current0=100|Max Output Voltage0=100|Max Input Current0=100|Max Input Voltage0=100|Output Current0=100|Input Current0=100|Isolation Voltage0=100|Rise Time0=100|Output Voltage0=100|On-State Resistance0=100|Load Current0=100|Test Voltage0=100|Forward Current0=100|Contact Resistance0=100|Length0=100|Height0=100|Width0=100|Radiation Hardening0=100|Lead Free0=100|REACH SVHC0=100|Approvals0=100
 [Table23]
 SchemaName=
 TableName=Resistor
