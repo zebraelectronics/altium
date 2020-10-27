@@ -5,7 +5,7 @@ ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security I
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=`
 RightQuote=`
 QuoteTableNames=1
