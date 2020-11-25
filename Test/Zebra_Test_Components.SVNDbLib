@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Isolator
+LastFocusedTable=DCDC_Converter
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -52,6 +52,9 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=171|Library Ref0=144|Footprint Path0=147|Footprint Ref0=120|Description0=374|Part Name0=120|Manufacturer0=204|Manufacturer Part Number0=191|Category0=202|Case/Package0=148|Supplier 10=86|Supplier Part Number 10=196|RoHS0=58|Stock 10=70|Pricing 10=366|DCDC_Convertercol0=147|Weight0=69|Max Output Voltage0=151|Length0=68|Height0=66|Width0=62|ComponentLink1URL0=332|ComponentLink1Description0=332|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=332|ComponentLink3Description0=332
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
@@ -88,9 +91,6 @@ TableName=Isolator
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=152|Library Ref0=122|Footprint Path0=114|Footprint Ref0=105|Description0=351|Part Name0=90|Manufacturer0=151|Manufacturer Part Number0=191|Category0=93|Supplier 10=86|Supplier Part Number 10=169|RoHS0=58|Stock 10=70|Pricing 10=362|Mount0=128|Case/Package0=121|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Packaging0=95|Collector Emitter Voltage (VCEO)0=226|Collector Emitter Saturation Voltage0=245|Max Collector Current0=160|Max Input Current0=139|Current Transfer Ratio0=160|Forward Current0=126|Forward Voltage0=126|Reverse Breakdown Voltage0=195|Max Power Dissipation0=164|Isolation Voltage0=128|Number of Elements0=150|Power Dissipation0=134|Voltage0=72|Package Quantity0=133|Number of Channels0=151|Max Output Voltage0=151|Output Current per Channel0=199|Radiation Hardening0=150|ComponentLink1URL0=338|ComponentLink1Description0=338|ComponentLink2URL0=350|ComponentLink2Description0=350|ComponentLink3URL0=356|ComponentLink3Description0=356|ComponentLink4URL0=338|ComponentLink4Description0=338|ComponentLink5URL0=323|ComponentLink5Description0=323|ComponentLink6URL0=327|ComponentLink6Description0=327|Voltage Rating (DC)0=146|Fall Time0=78|Collector Emitter Breakdown Voltage0=250|Input Current0=109|Rise Time0=82|Output Voltage0=121|Width0=62|Lead Pitch0=88|Row Spacing0=102|Lead Free0=84|REACH SVHC0=107|ComponentLink7URL0=350|ComponentLink7Description0=350|ComponentLink8URL0=340|ComponentLink8Description0=340|ComponentLink9URL0=336|ComponentLink9Description0=336|ComponentLink10URL0=331|ComponentLink10Description0=331|ComponentLink11URL0=331|ComponentLink11Description0=331|ComponentLink12URL0=340|ComponentLink12Description0=340|ComponentLink13URL0=331|ComponentLink13Description0=331|ComponentLink14URL0=331|ComponentLink14Description0=331|ComponentLink15URL0=336|ComponentLink15Description0=336|Approvals0=86|ComponentLink16URL0=331|ComponentLink16Description0=331|ComponentLink17URL0=350|ComponentLink17Description0=350|ComponentLink18URL0=340|ComponentLink18Description0=340|ComponentLink19URL0=328|ComponentLink19Description0=328|ComponentLink20URL0=336|ComponentLink20Description0=336|ComponentLink21URL0=336|ComponentLink21Description0=336|ComponentLink22URL0=331|ComponentLink22Description0=331|ComponentLink23URL0=331|ComponentLink23Description0=331|ComponentLink24URL0=336|ComponentLink24Description0=336|ComponentLink25URL0=331|ComponentLink25Description0=331|ComponentLink26URL0=331|ComponentLink26Description0=331
 [Table12]
 SchemaName=
 TableName=Logic
@@ -133,9 +133,6 @@ TableName=Optoelectronics
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=211|Library Ref0=126|Footprint Path0=205|Footprint Ref0=105|Description0=354|Part Name0=129|Manufacturer0=108|Manufacturer Part Number0=191|Category0=81|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 10=120|Manufacturer Part Number 10=203|RoHS0=58|Pricing 10=362|Mount0=100|Color0=102|Min Operating Temperature0=197|Max Operating Temperature0=199|Lens Style0=227|Max Power Dissipation0=164|Dominant Wavelength0=163|Number of LEDs0=125|Reverse Voltage0=123|Stock 10=70|Length0=68|Width0=62|ComponentLink1URL0=367|ComponentLink1Description0=367|ComponentLink2URL0=349|ComponentLink2Description0=349|Case/Package0=109|Number of Pins0=120|Lens Color0=90|Lens Transparency0=138|Test Current0=101|Number of Elements0=150|Power Dissipation0=134|Power Rating0=106|Luminous Intensity0=142|Packaging0=95|Viewing Angle0=112|Forward Current0=126|Forward Voltage0=126|Package Quantity0=133|Illumination Color0=134|Height0=66|Depth0=63|Lead Free0=84|Case Code (Imperial)0=151|Case Code (Metric)0=141|ComponentLink3URL0=350|ComponentLink3Description0=350|ComponentLink4URL0=349|ComponentLink4Description0=349|ComponentLink5URL0=328|ComponentLink5Description0=328|ComponentLink6URL0=324|ComponentLink6Description0=324|Wavelength0=98|Radiation Hardening0=150|ComponentLink7URL0=324|ComponentLink7Description0=324|ComponentLink8URL0=324|ComponentLink8Description0=324
 [Table19]
 SchemaName=
 TableName=PMIC
