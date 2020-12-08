@@ -5,13 +5,13 @@ ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security I
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=`
 RightQuote=`
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(50)
-LibraryDatabaseType=Microsoft Access
+LibraryDatabaseType=
 LibraryDatabasePath=
 DatabasePathRelative=0
 TopPanelCollapsed=0
@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Diode
+LastFocusedTable=Transistor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -121,6 +121,9 @@ TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=100|Library Ref0=100|Footprint Path0=100|Footprint Ref0=100|Description0=100|Part Name0=100|Manufacturer0=100|Manufacturer Part Number0=100|Supplier 10=100|Supplier Part Number 10=100|RoHS0=100|Category0=100|Stock 10=100|Pricing 10=100|Lead Free0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100|ComponentLink5URL0=100|ComponentLink5Description0=100
 [Table17]
 SchemaName=
 TableName=Opamp
@@ -187,6 +190,9 @@ TableName=Transistor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=100|Library Ref0=100|Footprint Path0=100|Footprint Ref0=100|Description0=100|Part Name0=100|Manufacturer0=100|Manufacturer Part Number0=100|Category0=100|Supplier 10=100|Supplier Part Number 10=100|RoHS0=100|Stock 10=100|Pricing 10=100|Case/Package0=100|Number of Pins0=100|Contact Plating0=100|Min Operating Temperature0=100|Max Operating Temperature0=100|Element Configuration0=100|Gain Bandwidth Product0=100|Max Frequency0=100|Packaging0=100|Max Collector Current0=100|Transition Frequency0=100|Collector Emitter Breakdown Voltage0=100|Max Breakdown Voltage0=100|Polarity0=100|Emitter Base Voltage (VEBO)0=100|Number of Elements0=100|Collector Base Voltage (VCBO)0=100|Power Dissipation0=100|Collector Emitter Saturation Voltage0=100|Frequency0=100|Package Quantity0=100|Collector Emitter Voltage (VCEO)0=100|Max Power Dissipation0=100|hFE Min0=100|Voltage Rating (DC)0=100|Current Rating0=100|Length0=100|Height0=100|Width0=100|Radiation Hardening0=100|Lead Free0=100|REACH SVHC0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100|ComponentLink5URL0=100|ComponentLink5Description0=100|ComponentLink6URL0=100|ComponentLink6Description0=100|ComponentLink7URL0=100|ComponentLink7Description0=100|Type0=100|Noise Figure0=100|Halogen Free0=100|ComponentLink8URL0=100|ComponentLink8Description0=100|ComponentLink9URL0=100|ComponentLink9Description0=100|ComponentLink10URL0=100|ComponentLink10Description0=100|ComponentLink11URL0=100|ComponentLink11Description0=100|ComponentLink12URL0=100|ComponentLink12Description0=100|ComponentLink13URL0=100|ComponentLink13Description0=100|ComponentLink14URL0=100|ComponentLink14Description0=100|ComponentLink15URL0=100|ComponentLink15Description0=100|ComponentLink16URL0=100|ComponentLink16Description0=100|ComponentLink17URL0=100|ComponentLink17Description0=100|ComponentLink18URL0=100|ComponentLink18Description0=100|ComponentLink19URL0=100|ComponentLink19Description0=100|ComponentLink20URL0=100|ComponentLink20Description0=100|Mount0=100|Drain to Source Voltage (Vdss)0=100|Continuous Drain Current (ID)0=100|Turn-On Delay Time0=100|Turn-Off Delay Time0=100|Gate to Source Voltage (Vgs)0=100|Rds On Max0=100|Input Capacitance0=100|Fall Time0=100|Rise Time0=100|Drain to Source Breakdown Voltage0=100|Drain to Source Resistance0=100|Threshold Voltage0=100|On-State Resistance0=100|Nominal Vgs0=100|Weight0=100|Dual Supply Voltage0=100|ComponentLink21URL0=100|ComponentLink21Description0=100|ComponentLink22URL0=100|ComponentLink22Description0=100|ComponentLink23URL0=100|ComponentLink23Description0=100|ComponentLink24URL0=100|ComponentLink24Description0=100|Number of Channels0=100|ComponentLink25URL0=100|ComponentLink25Description0=100|ComponentLink26URL0=100|ComponentLink26Description0=100|ComponentLink27URL0=100|ComponentLink27Description0=100|ComponentLink28URL0=100|ComponentLink28Description0=100
 [FieldMap1]
 Options=FieldName=Capacitor.Part Name|TableNameOnly=Capacitor|FieldNameOnly=Part Name|FieldType=0|ParameterName=Part Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
