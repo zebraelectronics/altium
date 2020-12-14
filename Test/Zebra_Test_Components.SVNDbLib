@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Capacitor
+LastFocusedTable=Transistor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -28,9 +28,6 @@ TableName=Capacitor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Name0=233|Library Path0=146|Library Ref0=204|Footprint Path0=136|Footprint Ref0=199|Description0=566|Manufacturer0=147|Manufacturer Part Number0=203|Category0=210|Case/Package0=109|Supplier 10=118|Supplier Part Number 10=233|Manufacturer 10=147|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=74|Pricing 10=365|Mount0=128|Case Code (Metric)0=141|Case Code (Imperial)0=151|Dielectric Material0=163|Min Operating Temperature0=197|Max Operating Temperature0=199|Tolerance0=83|Packaging0=95|Capacitance0=98|Package Quantity0=133|Voltage Rating0=115|Voltage Rating (DC)0=146|Dielectric0=201|Termination0=98|Dissipation Factor0=134|Length0=70|Height0=66|Width0=70|Thickness0=83|Lead Pitch0=88|Depth0=63|Radiation Hardening0=150|ComponentLink1URL0=357|ComponentLink1Description0=357|ComponentLink2URL0=357|ComponentLink2Description0=357|ComponentLink3URL0=349|ComponentLink3Description0=349|ComponentLink4URL0=349|ComponentLink4Description0=349|ComponentLink5URL0=354|ComponentLink5Description0=354|Material0=76|Contact Plating0=119|Voltage0=72|ComponentLink6URL0=349|ComponentLink6Description0=349|ComponentLink7URL0=350|ComponentLink7Description0=350|ComponentLink8URL0=351|ComponentLink8Description0=351|Lead Free0=84|Number of Pins0=120|REACH SVHC0=107|Temperature Coefficient0=171|ComponentLink9URL0=344|ComponentLink9Description0=344|ComponentLink10URL0=341|ComponentLink10Description0=341|ComponentLink11URL0=369|ComponentLink11Description0=369|ComponentLink12URL0=344|ComponentLink12Description0=344|ComponentLink13URL0=354|ComponentLink13Description0=354|ComponentLink14URL0=342|ComponentLink14Description0=342|ComponentLink15URL0=369|ComponentLink15Description0=369|ComponentLink16URL0=351|ComponentLink16Description0=351|ComponentLink17URL0=332|ComponentLink17Description0=332|ComponentLink18URL0=332|ComponentLink18Description0=332|ESR (Equivalent Series Resistance)0=228|Leakage Current0=126|Polarity0=71|Features0=111|Height - Seated (Max)0=159|ComponentLink19URL0=350|ComponentLink19Description0=350|ComponentLink20URL0=332|ComponentLink20Description0=332|ComponentLink21URL0=332|ComponentLink21Description0=332|ComponentLink22URL0=369|ComponentLink22Description0=369|ComponentLink23URL0=332|ComponentLink23Description0=332|ComponentLink24URL0=332|ComponentLink24Description0=332|ComponentLink25URL0=342|ComponentLink25Description0=342|ComponentLink26URL0=369|ComponentLink26Description0=369|ComponentLink27URL0=332|ComponentLink27Description0=332|ComponentLink28URL0=332|ComponentLink28Description0=332|ComponentLink29URL0=332|ComponentLink29Description0=332|Weight0=72|Composition0=103|Life (Hours)0=95|Ripple Current0=113|Ripple Current (AC)0=143|Diameter0=81|Voltage Rating (AC)0=145|Lead/Base Style0=120|Lead Diameter0=114|Lead Length0=101|Housing Material0=130|Housing Color0=113|Contact Material0=127|Color0=58|Number of Contacts0=149|Number of Rows0=127|Gender0=70|Orientation0=95|Number of Positions0=150|Number of Positions Loaded0=199|Pitch0=61|Row Spacing0=102|Contact Mating Length0=168
 [Table2]
 SchemaName=
 TableName=Circuit_Protection
@@ -181,15 +178,15 @@ TableName=Transformer
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=137|Library Ref0=90|Footprint Path0=172|Footprint Ref0=226|Part Name0=123
 [Table27]
 SchemaName=
 TableName=Transistor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=211|Library Ref0=168|Footprint Path0=116|Footprint Ref0=127|Description0=664|Part Name0=166|Manufacturer0=189|Manufacturer Part Number0=191|Category0=81|Supplier 10=86|Supplier Part Number 10=200|RoHS0=58|Stock 10=70|Pricing 10=376|Case/Package0=109|Number of Pins0=120|Contact Plating0=119|Min Operating Temperature0=197|Max Operating Temperature0=199|Element Configuration0=162|Gain Bandwidth Product0=174|Max Frequency0=118|Packaging0=95|Max Collector Current0=160|Transition Frequency0=152|Collector Emitter Breakdown Voltage0=250|Max Breakdown Voltage0=174|Polarity0=86|Emitter Base Voltage (VEBO)0=199|Number of Elements0=150|Collector Base Voltage (VCBO)0=211|Power Dissipation0=134|Collector Emitter Saturation Voltage0=245|Frequency0=88|Package Quantity0=133|Collector Emitter Voltage (VCEO)0=226|Max Power Dissipation0=164|hFE Min0=75|Voltage Rating (DC)0=146|Current Rating0=115|Length0=70|Height0=70|Width0=70|Radiation Hardening0=150|Lead Free0=84|REACH SVHC0=107|ComponentLink1URL0=344|ComponentLink1Description0=344|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=349|ComponentLink3Description0=349|ComponentLink4URL0=343|ComponentLink4Description0=343|ComponentLink5URL0=349|ComponentLink5Description0=349|ComponentLink6URL0=343|ComponentLink6Description0=343|ComponentLink7URL0=343|ComponentLink7Description0=343|Type0=111|Noise Figure0=101|Halogen Free0=106|ComponentLink8URL0=344|ComponentLink8Description0=344|ComponentLink9URL0=336|ComponentLink9Description0=336|ComponentLink10URL0=344|ComponentLink10Description0=344|ComponentLink11URL0=339|ComponentLink11Description0=339|ComponentLink12URL0=349|ComponentLink12Description0=349|ComponentLink13URL0=349|ComponentLink13Description0=349|ComponentLink14URL0=336|ComponentLink14Description0=336|ComponentLink15URL0=344|ComponentLink15Description0=344|ComponentLink16URL0=336|ComponentLink16Description0=336|ComponentLink17URL0=344|ComponentLink17Description0=344|ComponentLink18URL0=339|ComponentLink18Description0=339|ComponentLink19URL0=344|ComponentLink19Description0=344|ComponentLink20URL0=370|ComponentLink20Description0=370|Mount0=187|Drain to Source Voltage (Vdss)0=212|Continuous Drain Current (ID)0=210|Turn-On Delay Time0=149|Turn-Off Delay Time0=149|Gate to Source Voltage (Vgs)0=202|Rds On Max0=100|Input Capacitance0=135|Fall Time0=78|Rise Time0=82|Drain to Source Breakdown Voltage0=243|Drain to Source Resistance0=187|Threshold Voltage0=136|On-State Resistance0=148|Nominal Vgs0=103|Weight0=83|Dual Supply Voltage0=149|ComponentLink21URL0=349|ComponentLink21Description0=349|ComponentLink22URL0=332|ComponentLink22Description0=332|ComponentLink23URL0=332|ComponentLink23Description0=332|ComponentLink24URL0=349|ComponentLink24Description0=349|Number of Channels0=151|ComponentLink25URL0=349|ComponentLink25Description0=349|ComponentLink26URL0=350|ComponentLink26Description0=350|ComponentLink27URL0=332|ComponentLink27Description0=332|ComponentLink28URL0=349|ComponentLink28Description0=349
 [FieldMap1]
 Options=FieldName=Capacitor.Part Name|TableNameOnly=Capacitor|FieldNameOnly=Part Name|FieldType=0|ParameterName=Part Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
