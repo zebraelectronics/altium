@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Isolator
+LastFocusedTable=Module
 SVNRepositoryURL=
 FileRepositoryIsRelative=0
 [Table1]
@@ -88,9 +88,6 @@ TableName=Isolator
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=100|Library Ref0=97|Footprint Path0=98|Footprint Ref0=92|Description0=205|Part Name0=75|Manufacturer0=126|Manufacturer Part Number0=160|Category0=79|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Stock 10=60|Pricing 10=280|Mount0=106|Case/Package0=100|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=81|Collector Emitter Voltage (VCEO)0=189|Collector Emitter Saturation Voltage0=208|Max Collector Current0=135|Max Input Current0=117|Current Transfer Ratio0=137|Forward Current0=108|Forward Voltage0=109|Reverse Breakdown Voltage0=166|Max Power Dissipation0=140|Isolation Voltage0=111|Number of Elements0=127|Power Dissipation0=116|Voltage0=63|Package Quantity0=112|Number of Channels0=129|Max Output Voltage0=128|Output Current per Channel0=169|Radiation Hardening0=131|ComponentLink1URL0=271|ComponentLink1Description0=271|ComponentLink2URL0=271|ComponentLink2Description0=271|ComponentLink3URL0=271|ComponentLink3Description0=271|ComponentLink4URL0=280|ComponentLink4Description0=280|ComponentLink5URL0=265|ComponentLink5Description0=265|ComponentLink6URL0=268|ComponentLink6Description0=268|Voltage Rating (DC)0=124|Fall Time0=68|Collector Emitter Breakdown Voltage0=212|Input Current0=93|Rise Time0=71|Output Voltage0=104|Width0=55|Lead Pitch0=75|Row Spacing0=90|Lead Free0=72|REACH SVHC0=89|ComponentLink7URL0=273|ComponentLink7Description0=273|ComponentLink8URL0=261|ComponentLink8Description0=261|ComponentLink9URL0=265|ComponentLink9Description0=265|ComponentLink10URL0=265|ComponentLink10Description0=265|ComponentLink11URL0=137|ComponentLink11Description0=176|ComponentLink12URL0=137|ComponentLink12Description0=176|ComponentLink13URL0=137|ComponentLink13Description0=176|ComponentLink14URL0=137|ComponentLink14Description0=176|ComponentLink15URL0=137|ComponentLink15Description0=176|Approvals0=74|ComponentLink16URL0=137|ComponentLink16Description0=176|ComponentLink17URL0=137|ComponentLink17Description0=176|ComponentLink18URL0=137|ComponentLink18Description0=176|ComponentLink19URL0=137|ComponentLink19Description0=176|ComponentLink20URL0=137|ComponentLink20Description0=176|ComponentLink21URL0=137|ComponentLink21Description0=176|ComponentLink22URL0=137|ComponentLink22Description0=176|ComponentLink23URL0=137|ComponentLink23Description0=176|ComponentLink24URL0=137|ComponentLink24Description0=176|ComponentLink25URL0=137|ComponentLink25Description0=176|ComponentLink26URL0=137|ComponentLink26Description0=176|Number of Circuits0=119|Length0=59|Height0=58
 [Table12]
 SchemaName=
 TableName=Logic
@@ -121,6 +118,9 @@ TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=94|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Description0=304|Part Name0=75|Manufacturer0=115|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Category0=126|Stock 10=60|Pricing 10=283|Lead Free0=72|ComponentLink1URL0=278|ComponentLink1Description0=278|ComponentLink2URL0=284|ComponentLink2Description0=284|ComponentLink3URL0=297|ComponentLink3Description0=297|ComponentLink4URL0=299|ComponentLink4Description0=299|ComponentLink5URL0=278|ComponentLink5Description0=278
 [Table17]
 SchemaName=
 TableName=Opamp
