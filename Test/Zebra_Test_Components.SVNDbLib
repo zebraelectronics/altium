@@ -5,7 +5,7 @@ ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security I
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=`
 RightQuote=`
 QuoteTableNames=1
@@ -20,7 +20,7 @@ OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
 LastFocusedTable=Connector
-SVNRepositoryURL=
+SVNRepositoryURL=https://github.com
 FileRepositoryIsRelative=0
 [Table1]
 SchemaName=
