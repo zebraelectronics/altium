@@ -20,12 +20,17 @@ OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
 LastFocusedTable=Connector
+SVNRepositoryURL=
+FileRepositoryIsRelative=0
 [Table1]
 SchemaName=
 TableName=Capacitor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Name0=233|Library Path0=146|Library Ref0=204|Footprint Path0=136|Footprint Ref0=199|Description0=566|Manufacturer0=147|Manufacturer Part Number0=203|Category0=210|Case/Package0=109|Supplier 10=118|Supplier Part Number 10=233|Manufacturer 10=147|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=74|Pricing 10=365|Mount0=128|Case Code (Metric)0=141|Case Code (Imperial)0=151|Dielectric Material0=163|Min Operating Temperature0=197|Max Operating Temperature0=199|Tolerance0=83|Packaging0=95|Capacitance0=98|Package Quantity0=133|Voltage Rating0=115|Voltage Rating (DC)0=146|Dielectric0=201|Termination0=98|Dissipation Factor0=134|Length0=70|Height0=66|Width0=70|Thickness0=83|Lead Pitch0=88|Depth0=63|Radiation Hardening0=150|ComponentLink1URL0=357|ComponentLink1Description0=357|ComponentLink2URL0=357|ComponentLink2Description0=357|ComponentLink3URL0=349|ComponentLink3Description0=349|ComponentLink4URL0=349|ComponentLink4Description0=349|ComponentLink5URL0=354|ComponentLink5Description0=354|Material0=76|Contact Plating0=119|Voltage0=72|ComponentLink6URL0=349|ComponentLink6Description0=349|ComponentLink7URL0=350|ComponentLink7Description0=350|ComponentLink8URL0=351|ComponentLink8Description0=351|Lead Free0=84|Number of Pins0=120|REACH SVHC0=107|Temperature Coefficient0=171|ComponentLink9URL0=344|ComponentLink9Description0=344|ComponentLink10URL0=341|ComponentLink10Description0=341|ComponentLink11URL0=369|ComponentLink11Description0=369|ComponentLink12URL0=344|ComponentLink12Description0=344|ComponentLink13URL0=354|ComponentLink13Description0=354|ComponentLink14URL0=342|ComponentLink14Description0=342|ComponentLink15URL0=369|ComponentLink15Description0=369|ComponentLink16URL0=351|ComponentLink16Description0=351|ComponentLink17URL0=332|ComponentLink17Description0=332|ComponentLink18URL0=332|ComponentLink18Description0=332|ESR (Equivalent Series Resistance)0=228|Leakage Current0=126|Polarity0=71|Features0=111|Height - Seated (Max)0=159|ComponentLink19URL0=350|ComponentLink19Description0=350|ComponentLink20URL0=332|ComponentLink20Description0=332|ComponentLink21URL0=332|ComponentLink21Description0=332|ComponentLink22URL0=369|ComponentLink22Description0=369|ComponentLink23URL0=332|ComponentLink23Description0=332|ComponentLink24URL0=332|ComponentLink24Description0=332|ComponentLink25URL0=342|ComponentLink25Description0=342|ComponentLink26URL0=369|ComponentLink26Description0=369|ComponentLink27URL0=332|ComponentLink27Description0=332|ComponentLink28URL0=332|ComponentLink28Description0=332|ComponentLink29URL0=332|ComponentLink29Description0=332|Weight0=72|Composition0=103|Life (Hours)0=95|Ripple Current0=113|Ripple Current (AC)0=143|Diameter0=81|Voltage Rating (AC)0=145|Lead/Base Style0=120|Lead Diameter0=114|Lead Length0=101|Housing Material0=130|Housing Color0=113|Contact Material0=127|Color0=58|Number of Contacts0=149|Number of Rows0=127|Gender0=70|Orientation0=95|Number of Positions0=150|Number of Positions Loaded0=199|Pitch0=61|Row Spacing0=102|Contact Mating Length0=168
 [Table2]
 SchemaName=
 TableName=Circuit_Protection
@@ -47,6 +52,9 @@ TableName=Crystal
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=146|Library Ref0=90|Footprint Path0=144|Footprint Ref0=189|Description0=639|Part Name0=212|Manufacturer0=122|Manufacturer Part Number0=210|Category0=81|Supplier 10=86|Supplier Part Number 10=259|Manufacturer 10=120|Manufacturer Part Number 10=203|RoHS0=58|Stock 10=70|Pricing 10=364|Mount0=100|Case/Package0=112|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Frequency0=88|Frequency Tolerance0=150|Load Capacitance0=132|ESR (Equivalent Series Resistance)0=228|Packaging0=95|Frequency Stability0=140|Package Quantity0=133|Tolerance0=83|Termination0=98|Composition0=103|Series Resistance0=127|Length0=70|Height0=70|Width0=70|Depth0=63|REACH SVHC0=107|Lead Free0=84|ComponentLink1URL0=351|ComponentLink1Description0=351|ComponentLink2URL0=349|ComponentLink2Description0=349|ComponentLink3URL0=337|ComponentLink3Description0=337|ComponentLink4URL0=347|ComponentLink4Description0=347|ComponentLink5URL0=341|ComponentLink5Description0=341|ComponentLink6URL0=350|ComponentLink6Description0=350|Weight0=69|Radiation Hardening0=150|Operating Supply Voltage0=183|Max Supply Voltage0=147|Min Supply Voltage0=145|Max Supply Current0=147|ComponentLink7URL0=350|ComponentLink7Description0=350|ComponentLink8URL0=156|ComponentLink8Description0=200|Insulation Resistance0=152|ComponentLink9URL0=156|ComponentLink9Description0=200|Capacitance0=98|Supplier 20=86|Supplier Part Number 20=290|Stock 20=70|Pricing 20=362
 [Table5]
 SchemaName=
 TableName=DCDC_Converter
