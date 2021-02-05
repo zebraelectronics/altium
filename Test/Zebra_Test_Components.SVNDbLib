@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security Info=True;User ID=zebra_librarian;Data Source=Zebra-Test-Component-Library
+ConnectionString=Provider=MSDASQL.1;Password=i7lvaf1jzr5mzx1a;Persist Security Info=True;User ID=zebra_librarian;Data Source=Zebra-Test-Component-Library;Initial Catalog=Zebra_Test_Component_Lib
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,7 +11,7 @@ RightQuote=`
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(50)
-LibraryDatabaseType=Microsoft Access
+LibraryDatabaseType=
 LibraryDatabasePath=
 DatabasePathRelative=0
 TopPanelCollapsed=0
@@ -20,7 +20,7 @@ OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
 LastFocusedTable=Filter
-SVNRepositoryURL=http://github.com
+SVNRepositoryURL=https://github.com
 FileRepositoryIsRelative=0
 [Table1]
 SchemaName=
