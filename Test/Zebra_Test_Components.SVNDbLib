@@ -20,7 +20,7 @@ OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
 LastFocusedTable=Filter
-SVNRepositoryURL=https://github.com
+SVNRepositoryURL=svn://github.com
 FileRepositoryIsRelative=0
 [Table1]
 SchemaName=
