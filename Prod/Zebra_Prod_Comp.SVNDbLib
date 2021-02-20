@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Inductor
+LastFocusedTable=Memory
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -76,9 +76,6 @@ TableName=Inductor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=124|Footprint Ref0=100|Description0=276|Part Name0=133|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=107|Manufacturer Part Number0=160|RoHS0=51|Category0=87|Stock 10=60|Pricing 10=280|Mount0=84|Case/Package0=93|Core Material0=92|Tolerance0=73|Packaging0=81|Composition0=89|Inductance0=80|Current Rating0=99|Shielding0=72|DC Resistance (DCR)0=126|Test Frequency0=100|Length0=59|Width0=57|Height - Seated (Max)0=133|ComponentLink1URL0=298|ComponentLink1Description0=298|Min Operating Temperature0=167|Max Operating Temperature0=168|Saturation Current0=119|ComponentLink2URL0=295|ComponentLink2Description0=295|Number of Pins0=102|Max DC Current0=104|Inductance Tolerance0=133|Self Resonant Frequency0=150|Package Quantity0=112|Termination0=85|Current0=62|RMS Current (Irms)0=118|DC Current0=80|Military Standard0=111|Height0=58|Depth0=55|REACH SVHC0=89|ComponentLink3URL0=274|ComponentLink3Description0=274|ComponentLink4URL0=274|ComponentLink4Description0=274|ComponentLink5URL0=276|ComponentLink5Description0=276|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=274|ComponentLink7Description0=274|ComponentLink8URL0=274|ComponentLink8Description0=274|Radiation Hardening0=100|Halogen Free0=100|RoHS Compliant0=100
 [Table10]
 SchemaName=
 TableName=Interface
@@ -109,6 +106,9 @@ TableName=Memory
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=83|Footprint Path0=98|Footprint Ref0=92|Description0=284|Part Name0=82|Manufacturer0=93|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Category0=69|Stock 10=60|Pricing 10=280|Mount0=84|Case/Package0=93|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Memory Type0=91|Packaging0=76|Memory Size0=87|Frequency0=76|Access Time0=83|RoHS Compliant0=107|ComponentLink1URL0=279|ComponentLink1Description0=279
 [Table15]
 SchemaName=
 TableName=Misc
