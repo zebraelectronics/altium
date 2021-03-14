@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Power_Supply
+LastFocusedTable=DCDC_Converter
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -52,6 +52,9 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=114|Library Ref0=85|Footprint Path0=98|Footprint Ref0=129|Description0=292|Part Name0=89|Manufacturer0=170|Manufacturer Part Number0=160|Category0=168|Case/Package0=120|Supplier 10=75|Supplier Part Number 10=151|RoHS0=165|Stock 10=60|Pricing 10=284|DCDC_Convertercol0=123|Weight0=61|Max Output Voltage0=128|Length0=59|Height0=58|Width0=55|ComponentLink1URL0=278|ComponentLink1Description0=278|ComponentLink2URL0=298|ComponentLink2Description0=298|ComponentLink3URL0=278|ComponentLink3Description0=278|ComponentLink4URL0=289|ComponentLink4Description0=289|ComponentLink5URL0=282|ComponentLink5Description0=282|ComponentLink6URL0=281|ComponentLink6Description0=281|Mount0=84|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Nominal Output Voltage0=150|Output Current0=103|Dropout Voltage0=110|Packaging0=81|Max Input Voltage0=118|Min Input Voltage0=117|Max Output Current0=127|Number of Outputs0=124|Output Voltage0=104|Package Quantity0=112|Number of Regulators0=137|Min Current Limit0=112|Min Output Voltage0=127|Polarity0=61|Quiescent Current0=116|Output Voltage Accuracy0=151|Series0=53|RoHS Compliant0=107|REACH SVHC0=89|Lead Free0=72|ComponentLink7URL0=277|ComponentLink7Description0=277|Voltage - Output 10=120|Isolation Voltage0=111|Efficiency0=71|Min Input Voltage (DC)0=141|Max Input Voltage (DC)0=142|Max Output Power0=120|Current - Output 10=119|Max Power Dissipation0=140|Depth0=55|ComponentLink8URL0=284|ComponentLink8Description0=284|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=296|ComponentLink11Description0=296
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
@@ -118,9 +121,6 @@ TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=94|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Description0=239|Part Name0=75|Manufacturer0=115|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|Category0=126|Stock 10=60|Pricing 10=283|Lead Free0=72|ComponentLink1URL0=293|ComponentLink1Description0=293|ComponentLink2URL0=284|ComponentLink2Description0=284|ComponentLink3URL0=297|ComponentLink3Description0=297|ComponentLink4URL0=299|ComponentLink4Description0=299|ComponentLink5URL0=278|ComponentLink5Description0=278|Case/Package0=93|Weight0=65|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=76|Package Quantity0=112|Efficiency0=71|Output Current0=103|Max Output Power0=120|Output Power0=96|Number of Outputs0=124|Voltage - Output 10=120|Current - Output 10=119|Length0=59|Width0=55|Height0=58|RoHS Compliant0=107|Approvals0=77|ComponentLink6URL0=299|ComponentLink6Description0=299|ComponentLink7URL0=297|ComponentLink7Description0=297|Mount0=102|Number of Pins0=102|ComponentLink8URL0=271|ComponentLink8Description0=271|ComponentLink9URL0=271|ComponentLink9Description0=271|ComponentLink10URL0=271|ComponentLink10Description0=271
 [Table17]
 SchemaName=
 TableName=Opamp
@@ -145,9 +145,6 @@ TableName=Power_Supply
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=128|Library Ref0=77|Footprint Path0=128|Footprint Ref0=92|Part Name0=75|Description0=304|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Category0=168|Stock 10=60|Pricing 10=283|Mount0=102|Number of Pins0=102|Weight0=65|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=76|Package Quantity0=112|Number of Outputs0=124|Voltage - Output 10=120|Current - Output 10=119|Efficiency0=71|Output Current0=103|Max Output Power0=120|Output Power0=96|Length0=59|Width0=55|Height0=58|Lead Free0=72|Approvals0=77|ComponentLink1URL0=293|ComponentLink1Description0=293|ComponentLink2URL0=284|ComponentLink2Description0=284|ComponentLink3URL0=299|ComponentLink3Description0=299|Case/Package0=93|RoHS Compliant0=107|ComponentLink4URL0=299|ComponentLink4Description0=299|ComponentLink5URL0=297|ComponentLink5Description0=297|ComponentLink6URL0=299|ComponentLink6Description0=299|ComponentLink7URL0=297|ComponentLink7Description0=297
 [Table21]
 SchemaName=
 TableName=RTC
