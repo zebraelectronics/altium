@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=DCDC_Converter
+LastFocusedTable=Inductor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -52,9 +52,6 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=114|Library Ref0=85|Footprint Path0=98|Footprint Ref0=129|Description0=292|Part Name0=89|Manufacturer0=170|Manufacturer Part Number0=160|Category0=168|Case/Package0=120|Supplier 10=75|Supplier Part Number 10=151|RoHS0=165|Stock 10=60|Pricing 10=284|DCDC_Convertercol0=123|Weight0=61|Max Output Voltage0=128|Length0=59|Height0=58|Width0=55|ComponentLink1URL0=278|ComponentLink1Description0=278|ComponentLink2URL0=298|ComponentLink2Description0=298|ComponentLink3URL0=278|ComponentLink3Description0=278|ComponentLink4URL0=289|ComponentLink4Description0=289|ComponentLink5URL0=282|ComponentLink5Description0=282|ComponentLink6URL0=281|ComponentLink6Description0=281|Mount0=84|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Nominal Output Voltage0=150|Output Current0=103|Dropout Voltage0=110|Packaging0=81|Max Input Voltage0=118|Min Input Voltage0=117|Max Output Current0=127|Number of Outputs0=124|Output Voltage0=104|Package Quantity0=112|Number of Regulators0=137|Min Current Limit0=112|Min Output Voltage0=127|Polarity0=61|Quiescent Current0=116|Output Voltage Accuracy0=151|Series0=53|RoHS Compliant0=107|REACH SVHC0=89|Lead Free0=72|ComponentLink7URL0=277|ComponentLink7Description0=277|Voltage - Output 10=120|Isolation Voltage0=111|Efficiency0=71|Min Input Voltage (DC)0=141|Max Input Voltage (DC)0=142|Max Output Power0=120|Current - Output 10=119|Max Power Dissipation0=140|Depth0=55|ComponentLink8URL0=284|ComponentLink8Description0=284|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=296|ComponentLink11Description0=296
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
@@ -73,12 +70,18 @@ TableName=Filter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=124|Footprint Ref0=92|Description0=286|Part Name0=195|Manufacturer0=93|Manufacturer Part Number0=160|Category0=129|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number 10=169|RoHS0=51|Stock 10=60|Pricing 10=280|Case/Package0=93|Number of Pins0=102|Weight0=65|Core Material0=92|Case Code (Metric)0=118|Material0=69|Case Code (Imperial)0=127|Min Operating Temperature0=167|Max Operating Temperature0=168|Impedance0=79|Tolerance0=73|Max DC Current0=104|DC Resistance (DCR)0=126|Package Quantity0=112|Max Current Rating0=123|Packaging0=81|Current Rating0=99|Shielding0=72|Frequency0=76|Number of Circuits0=119|Termination0=85|Test Frequency0=100|Number of Lines0=107|DC Current0=80|Military Standard0=111|Length0=59|Height0=58|Depth0=55|Width0=57|Radiation Hardening0=131|REACH SVHC0=89|Lead Free0=72|ComponentLink1URL0=299|ComponentLink1Description0=299|ComponentLink2URL0=291|ComponentLink2Description0=291|ComponentLink3URL0=294|ComponentLink3Description0=294|ComponentLink4URL0=278|ComponentLink4Description0=278|ComponentLink5URL0=278|ComponentLink5Description0=278|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=277|ComponentLink7Description0=277|ComponentLink8URL0=278|ComponentLink8Description0=278|ComponentLink9URL0=277|ComponentLink9Description0=277|ComponentLink10URL0=278|ComponentLink10Description0=278|ComponentLink11URL0=278|ComponentLink11Description0=278|ComponentLink12URL0=275|ComponentLink12Description0=275|ComponentLink13URL0=277|ComponentLink13Description0=277|Mount0=84|Voltage Rating (DC)0=124|Inductance0=80|Ratings0=62|Contact Plating0=102|Resistance0=77|ESR (Equivalent Series Resistance)0=195
 [Table9]
 SchemaName=
 TableName=Inductor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=124|Footprint Ref0=100|Description0=200|Part Name0=133|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=107|Manufacturer Part Number0=160|RoHS0=51|Category0=87|Stock 10=60|Pricing 10=280|Mount0=84|Case/Package0=93|Core Material0=92|Tolerance0=73|Packaging0=81|Composition0=89|Inductance0=80|Current Rating0=99|Shielding0=72|DC Resistance (DCR)0=126|Test Frequency0=100|Length0=59|Width0=57|Height - Seated (Max)0=133|ComponentLink1URL0=299|ComponentLink1Description0=299|Min Operating Temperature0=167|Max Operating Temperature0=168|Saturation Current0=119|ComponentLink2URL0=295|ComponentLink2Description0=295|Number of Pins0=102|Max DC Current0=104|Inductance Tolerance0=133|Self Resonant Frequency0=150|Package Quantity0=112|Termination0=85|Current0=62|RMS Current (Irms)0=118|DC Current0=80|Military Standard0=111|Height0=58|Depth0=55|REACH SVHC0=89|ComponentLink3URL0=283|ComponentLink3Description0=283|ComponentLink4URL0=283|ComponentLink4Description0=283|ComponentLink5URL0=283|ComponentLink5Description0=283|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=274|ComponentLink7Description0=274|ComponentLink8URL0=274|ComponentLink8Description0=274|Radiation Hardening0=131|Halogen Free0=92|RoHS Compliant0=107|Resistor Type0=129|Series0=66|Lead Pitch0=75|Lead Free0=72|Case Code (Metric)0=118|Case Code (Imperial)0=127
 [Table10]
 SchemaName=
 TableName=Interface
