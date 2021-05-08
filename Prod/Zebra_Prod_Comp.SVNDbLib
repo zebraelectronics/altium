@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Optoelectronic
+LastFocusedTable=Resistor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -130,9 +130,6 @@ TableName=Optoelectronic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=148|Library Ref0=102|Footprint Path0=142|Footprint Ref0=92|Description0=282|Part Name0=102|Manufacturer0=93|Manufacturer Part Number0=160|Category0=69|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number 10=169|RoHS0=51|Pricing 10=280|Mount0=84|Color0=87|Min Operating Temperature0=167|Max Operating Temperature0=168|Lens Style0=196|Max Power Dissipation0=140|Dominant Wavelength0=139|Number of LEDs0=105|Reverse Voltage0=105|Stock 10=60|Length0=59|Width0=55|ComponentLink1URL0=296|ComponentLink1Description0=296|ComponentLink2URL0=281|ComponentLink2Description0=281|Case/Package0=93|Number of Pins0=102|Lens Color0=77|Lens Transparency0=117|Test Current0=86|Number of Elements0=127|Power Dissipation0=116|Power Rating0=92|Luminous Intensity0=120|Packaging0=81|Viewing Angle0=98|Forward Current0=108|Forward Voltage0=109|Package Quantity0=112|Illumination Color0=116|Height0=58|Depth0=55|Lead Free0=72|Case Code (Imperial)0=127|Case Code (Metric)0=118|ComponentLink3URL0=289|ComponentLink3Description0=289|ComponentLink4URL0=281|ComponentLink4Description0=281|ComponentLink5URL0=280|ComponentLink5Description0=280|ComponentLink6URL0=262|ComponentLink6Description0=262|Wavelength0=85|Radiation Hardening0=131|ComponentLink7URL0=262|ComponentLink7Description0=262|ComponentLink8URL0=262|ComponentLink8Description0=262|Series0=100|RoHS Compliant0=100|ComponentLink9URL0=100|ComponentLink9Description0=100|ComponentLink10URL0=100|ComponentLink10Description0=100
 [Table19]
 SchemaName=
 TableName=PMIC
@@ -163,6 +160,9 @@ TableName=Resistor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=101|Footprint Path0=98|Footprint Ref0=92|Description0=204|Part Name0=113|Manufacturer0=129|Manufacturer Part Number0=160|Category0=108|Case/Package0=93|Supplier 10=75|Supplier Part Number 10=180|Manufacturer 10=129|Manufacturer Part Number 10=169|RoHS0=51|Stock 10=60|Pricing 10=288|Case Code (Metric)0=118|Case Code (Imperial)0=127|Min Operating Temperature0=167|Max Operating Temperature0=168|Package Quantity0=112|Resistance0=77|Tolerance0=73|Packaging0=81|Composition0=140|Number of Terminations0=148|Max Power Dissipation0=140|Temperature Coefficient0=147|Features0=179|Length0=59|Height0=58|Width0=57|Lead Free0=72|ComponentLink1URL0=293|ComponentLink1Description0=293|ComponentLink2URL0=293|ComponentLink2Description0=293|ComponentLink3URL0=278|ComponentLink3Description0=278|Power Rating0=92|ComponentLink4URL0=290|ComponentLink4Description0=290|ComponentLink5URL0=289|ComponentLink5Description0=289|ComponentLink6URL0=281|ComponentLink6Description0=281|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Number of Pins0=102|Voltage Rating0=100|Voltage Rating (DC)0=124|REACH SVHC0=89|Contact Plating0=102|Resistor Type0=206|Operating Supply Voltage0=157|Diameter0=69|Radiation Hardening0=131|Military Standard0=111|ComponentLink7URL0=274|ComponentLink7Description0=274|ComponentLink8URL0=293|ComponentLink8Description0=293|ComponentLink9URL0=276|ComponentLink9Description0=276|ComponentLink10URL0=276|ComponentLink10Description0=276|Mount0=84|ComponentLink11URL0=281|ComponentLink11Description0=281|ComponentLink12URL0=273|ComponentLink12Description0=273|ComponentLink13URL0=271|ComponentLink13Description0=271|ComponentLink14URL0=276|ComponentLink14Description0=276|ComponentLink15URL0=271|ComponentLink15Description0=271|ComponentLink16URL0=276|ComponentLink16Description0=276|ComponentLink17URL0=271|ComponentLink17Description0=271|ComponentLink18URL0=274|ComponentLink18Description0=274|RoHS Compliant0=107
 [Table24]
 SchemaName=
 TableName=Sensor
