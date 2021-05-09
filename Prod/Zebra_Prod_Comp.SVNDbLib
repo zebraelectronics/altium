@@ -20,7 +20,7 @@ OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
 LastFocusedTable=Capacitor
-SVNRepositoryURL=
+SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
 SchemaName=
