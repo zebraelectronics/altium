@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Connector
+LastFocusedTable=Opamp
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -127,6 +127,9 @@ TableName=Opamp
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=84|Library Ref0=106|Footprint Path0=98|Footprint Ref0=106|Description0=402|Part Name0=106|Manufacturer0=105|Manufacturer Part Number0=160|Category0=242|Supplier 10=75|Supplier Part Number 10=154|RoHS0=51|Stock 10=60|Pricing 10=283|Mount0=84|Case/Package0=99|Number of Pins0=102|Min Operating Temperature0=167|Max Operating Temperature0=168|Gain Bandwidth Product0=149|Common Mode Rejection Ratio0=183|Min Supply Voltage0=124|Max Supply Voltage0=125|Voltage Gain0=90|Input Offset Voltage (Vos)0=157|Input Bias Current0=116|Operating Supply Current0=156|Number of Circuits0=119|Output Current per Channel0=169|Number of Elements0=127|Number of Channels0=129|Output Current0=103|Packaging0=81|Slew Rate0=73|Nominal Supply Current0=146|Package Quantity0=112|Unity Gain Bandwidth Product0=179|Radiation Hardening0=131|Lead Free0=72|ComponentLink1URL0=280|ComponentLink1Description0=280|ComponentLink2URL0=300|ComponentLink2Description0=300|ComponentLink3URL0=297|ComponentLink3Description0=297|ComponentLink4URL0=297|ComponentLink4Description0=297|ComponentLink5URL0=282|ComponentLink5Description0=282|ComponentLink6URL0=282|ComponentLink6Description0=282|Contact Plating0=102|Min Dual Supply Voltage0=151|Max Dual Supply Voltage0=152|Power Supply Rejection Ratio (PSRR)0=209|Operating Supply Voltage0=157|Nominal Gain Bandwidth Product0=195|Max I/O Voltage0=106|Bandwidth0=79|Number of Amplifiers0=132|REACH SVHC0=89|Dual Supply Voltage0=128|Length0=59|Height0=58|Width0=55|RoHS Compliant0=107|Number of Outputs0=124|Interface0=68|Max Output Current0=127|Output Configuration0=137|-3db Bandwidth0=106|Amplifier Type0=106|Supply Current0=100|Technology0=83|Input Offset Voltage-Max0=154|Slew Rate-Nom0=101|ComponentLink7URL0=273|ComponentLink7Description0=273|ComponentLink8URL0=278|ComponentLink8Description0=278|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=276|ComponentLink10Description0=276|ComponentLink11URL0=275|ComponentLink11Description0=275|Weight0=100|Propagation Delay0=100|Direction0=100|Logic Function0=100|Number of Bits0=100|Turn-On Delay Time0=100|Data Rate0=100|High Level Output Current0=100|Low Level Output Current0=100|Polarity0=100|Quiescent Current0=100|Number of Inputs0=100|ComponentLink12URL0=100|ComponentLink12Description0=100|ComponentLink13URL0=100|ComponentLink13Description0=100|ComponentLink14URL0=100|ComponentLink14Description0=100|ComponentLink15URL0=100|ComponentLink15Description0=100|ComponentLink16URL0=100|ComponentLink16Description0=100|ComponentLink17URL0=100|ComponentLink17Description0=100|ComponentLink18URL0=100|ComponentLink18Description0=100
 [Table18]
 SchemaName=
 TableName=Optoelectronics
