@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Prod/Symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=Optoelectronic
+LastFocusedTable=Capacitor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -28,6 +28,9 @@ TableName=Capacitor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Name0=157|Library Path0=95|Library Ref0=170|Footprint Path0=98|Footprint Ref0=156|Description0=446|Model Path0=82|Model Ref0=76|Manufacturer0=121|Manufacturer Part Number0=160|Category0=175|Case/Package0=93|Supplier 10=100|Supplier Part Number 10=166|RoHS0=51|Stock 10=60|Pricing 10=282|Mount0=106|Case Code (Metric)0=118|Case Code (Imperial)0=127|Dielectric Material0=115|Min Operating Temperature0=167|Max Operating Temperature0=168|Tolerance0=73|Packaging0=81|Capacitance0=85|Package Quantity0=112|Voltage Rating0=100|Voltage Rating (DC)0=124|Dielectric0=70|Termination0=85|Dissipation Factor0=116|Length0=59|Height0=58|Width0=57|Thickness0=73|Lead Pitch0=75|Depth0=55|Radiation Hardening0=131|ComponentLink1URL0=303|ComponentLink1Description0=303|ComponentLink2URL0=303|ComponentLink2Description0=303|ComponentLink3URL0=288|ComponentLink3Description0=288|ComponentLink4URL0=284|ComponentLink4Description0=284|ComponentLink5URL0=288|ComponentLink5Description0=288|Material0=65|Contact Plating0=102|Voltage0=63|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=289|ComponentLink7Description0=289|ComponentLink8URL0=297|ComponentLink8Description0=297|Lead Free0=72|Number of Pins0=102|REACH SVHC0=89|Temperature Coefficient0=147|ComponentLink9URL0=278|ComponentLink9Description0=278|ComponentLink10URL0=280|ComponentLink10Description0=280|ComponentLink11URL0=311|ComponentLink11Description0=311|ComponentLink12URL0=284|ComponentLink12Description0=284|ComponentLink13URL0=288|ComponentLink13Description0=288|ComponentLink14URL0=288|ComponentLink14Description0=288|ComponentLink15URL0=311|ComponentLink15Description0=311|ComponentLink16URL0=297|ComponentLink16Description0=297|ComponentLink17URL0=278|ComponentLink17Description0=278|ComponentLink18URL0=278|ComponentLink18Description0=278|ESR (Equivalent Series Resistance)0=195|Leakage Current0=107|Polarity0=61|Features0=93|Height - Seated (Max)0=133|ComponentLink19URL0=289|ComponentLink19Description0=289|ComponentLink20URL0=278|ComponentLink20Description0=278|ComponentLink21URL0=278|ComponentLink21Description0=278|ComponentLink22URL0=311|ComponentLink22Description0=311|ComponentLink23URL0=278|ComponentLink23Description0=278|ComponentLink24URL0=278|ComponentLink24Description0=278|ComponentLink25URL0=288|ComponentLink25Description0=288|ComponentLink26URL0=311|ComponentLink26Description0=311|ComponentLink27URL0=278|ComponentLink27Description0=278|ComponentLink28URL0=278|ComponentLink28Description0=278|ComponentLink29URL0=278|ComponentLink29Description0=278|Weight0=61|Composition0=89|Life (Hours)0=81|Ripple Current0=98|Ripple Current (AC)0=121|Diameter0=69|Voltage Rating (AC)0=123|Lead/Base Style0=101|Lead Diameter0=96|Lead Length0=86|Housing Material0=112|Housing Color0=98|Contact Material0=108|Color0=51|Number of Contacts0=126|Number of Rows0=109|Gender0=61|Orientation0=83|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=48|Row Spacing0=90|Contact Mating Length0=142|Series0=53|Construction0=90|RoHS Compliant0=107|Impedance0=79
 [Table2]
 SchemaName=
 TableName=Circuit_Protection
@@ -130,9 +133,6 @@ TableName=Optoelectronic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=148|Library Ref0=102|Footprint Path0=142|Footprint Ref0=115|Description0=282|Part Name0=102|Manufacturer0=93|Manufacturer Part Number0=160|Category0=69|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number 10=169|RoHS0=51|Pricing 10=280|Mount0=84|Color0=87|Min Operating Temperature0=167|Max Operating Temperature0=168|Lens Style0=196|Max Power Dissipation0=140|Dominant Wavelength0=139|Number of LEDs0=105|Reverse Voltage0=105|Stock 10=60|Length0=59|Width0=55|ComponentLink1URL0=296|ComponentLink1Description0=296|ComponentLink2URL0=281|ComponentLink2Description0=281|Case/Package0=93|Number of Pins0=102|Lens Color0=77|Lens Transparency0=117|Test Current0=86|Number of Elements0=127|Power Dissipation0=116|Power Rating0=92|Luminous Intensity0=120|Packaging0=81|Viewing Angle0=98|Forward Current0=108|Forward Voltage0=109|Package Quantity0=112|Illumination Color0=116|Height0=58|Depth0=55|Lead Free0=72|Case Code (Imperial)0=127|Case Code (Metric)0=118|ComponentLink3URL0=289|ComponentLink3Description0=289|ComponentLink4URL0=281|ComponentLink4Description0=281|ComponentLink5URL0=280|ComponentLink5Description0=280|ComponentLink6URL0=262|ComponentLink6Description0=262|Wavelength0=85|Radiation Hardening0=131|ComponentLink7URL0=262|ComponentLink7Description0=262|ComponentLink8URL0=262|ComponentLink8Description0=262|Series0=53|RoHS Compliant0=107|ComponentLink9URL0=281|ComponentLink9Description0=281|ComponentLink10URL0=265|ComponentLink10Description0=265
 [Table19]
 SchemaName=
 TableName=PMIC
