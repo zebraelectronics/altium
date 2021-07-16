@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/zebraelectronics/altium/trunk/Test/Symbols_
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=DCDC_Converter
+LastFocusedTable=Inductor
 SVNRepositoryURL=https://github.com/zebraelectronics/altium
 FileRepositoryIsRelative=0
 [Table1]
@@ -52,9 +52,6 @@ TableName=DCDC_Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=140|Library Ref0=122|Footprint Path0=120|Footprint Ref0=95|Description0=300|Part Name0=169|Manufacturer0=170|Manufacturer Part Number0=160|Category0=171|Case/Package0=120|Supplier 10=75|Supplier Part Number 10=155|RoHS0=51|Stock 10=60|Pricing 10=284|DCDC_Convertercol0=123|Weight0=61|Max Output Voltage0=128|Length0=59|Height0=58|Width0=55|ComponentLink1URL0=297|ComponentLink1Description0=297|ComponentLink2URL0=298|ComponentLink2Description0=298|ComponentLink3URL0=287|ComponentLink3Description0=287|Mount0=84|Min Operating Temperature0=167|Max Operating Temperature0=168|Packaging0=81|Number of Outputs0=124|Min Input Voltage0=117|Max Input Voltage0=118|Voltage - Output 10=120|Voltage - Output 20=120|Max Output Current0=127|Isolation Voltage0=111|Efficiency0=71|Max Power Dissipation0=140|Features0=67|Min Input Voltage (DC)0=141|Max Input Voltage (DC)0=142|Max Output Power0=120|Current - Output 10=119|Current - Output 20=119|Depth0=55|RoHS Compliant0=107|REACH SVHC0=89|ComponentLink4URL0=278|ComponentLink4Description0=278|ComponentLink5URL0=131|ComponentLink5Description0=170|ComponentLink6URL0=131|ComponentLink6Description0=170|Number of Pins0=102|Output Voltage0=104|Package Quantity0=112|Switching Frequency0=130|Output Current0=103|Nominal Supply Current0=146|Min Supply Voltage0=124|Synchronous Rectifier0=135|Min Output Voltage0=127|Quiescent Current0=116|Topology0=72|Output Type0=88|Output Configuration0=137|Series0=53|Supply Current0=100|Radiation Hardening0=131|Lead Free0=72|Contact Plating0=102|Polarity0=61|Accuracy0=67|Dropout Voltage0=110|Nominal Output Voltage0=150|Number of Regulators0=137|Min Current Limit0=112|Output Voltage Accuracy0=151|ComponentLink7URL0=131|ComponentLink7Description0=170
 [Table6]
 SchemaName=
 TableName=Data_Acquisition
@@ -79,6 +76,9 @@ TableName=Inductor
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=121|Library Ref0=96|Footprint Path0=150|Footprint Ref0=122|Description0=295|Part Name0=183|Supplier 10=75|Supplier Part Number 10=164|Manufacturer0=107|Manufacturer Part Number0=160|RoHS0=51|Category0=92|Stock 10=60|Pricing 10=280|Mount0=84|Case/Package0=111|Core Material0=172|Tolerance0=73|Packaging0=81|Composition0=89|Inductance0=80|Current Rating0=99|Shielding0=72|DC Resistance (DCR)0=126|Test Frequency0=100|Length0=59|Width0=57|Height - Seated (Max)0=133|ComponentLink1URL0=298|ComponentLink1Description0=298|Min Operating Temperature0=167|Max Operating Temperature0=168|Saturation Current0=119|ComponentLink2URL0=295|ComponentLink2Description0=295|Number of Pins0=102|Max DC Current0=104|Inductance Tolerance0=133|Self Resonant Frequency0=150|Package Quantity0=112|Termination0=85|Current0=62|RMS Current (Irms)0=118|DC Current0=80|Military Standard0=111|Height0=58|Depth0=55|REACH SVHC0=89|ComponentLink3URL0=277|ComponentLink3Description0=277|ComponentLink4URL0=278|ComponentLink4Description0=278|ComponentLink5URL0=276|ComponentLink5Description0=276|ComponentLink6URL0=278|ComponentLink6Description0=278|ComponentLink7URL0=274|ComponentLink7Description0=274|ComponentLink8URL0=274|ComponentLink8Description0=274|Series0=53|Resistor Type0=91|Rated Current-Max0=120|Radiation Hardening0=131|RoHS Compliant0=107|Lead Free0=72
 [Table10]
 SchemaName=
 TableName=Interface
